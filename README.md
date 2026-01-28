@@ -1,6 +1,6 @@
 # Research on Systemic Failures in AI Applications
 
-This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. ***The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing MIT AI Risk Mitigation Taxonomy.***
+This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. ***The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy]([https://example.com](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations)).***
 
 ---
 
@@ -10,20 +10,14 @@ This research explores systemic failures in AI applications as reported by news 
 
 ---
 
-## Data
+## Datasets
 
 We use data from three sources — AI Incident Databas (AIID), AIAAIC and AI Incidents Monitor (developed by OECD), with over 9,000 rows in total. Each row represents one AI-related incident. All three datasets follow a similar methodology in which each AI incident reported in the news media is recorded as a distinct entry and linked to its original source.
 
 ---
 
-# Mitigation
-GPT-5-mini is used to identify mitigation statements, which are then manually reviewed to ensure accuracy. The extracted data is organized into structured records containing:
-
-- Incident ID  
-- Mitigation action  
-- Assigned mitigation subcategory  
-
-When multiple mitigations appear in a single incident, each action is stored as a separate entry.
+# Mitigation Extraction
+In this phase, each incident text is transformed into an individual task and submitted to the OpenAI Batch API, where GPT-5-mini extracts the corresponding mitigation actions. The resulting JSONL file contains standardized mitigation statements that will be used for taxonomy development and classification.
 
 ---
 
