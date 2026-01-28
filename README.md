@@ -45,3 +45,19 @@ A total of 6,893 rows containing mitigation texts were labeled, resulting in 23,
 
 **Comparison of existing vs new AI mitigation subcategories**
 ![Comparison of existing vs new AI mitigation subcategories](https://github.com/user-attachments/assets/968831b8-5029-460d-bf98-4301d244ffd7)
+
+--
+
+## Citation
+
+```yaml
+@article{KEYWORD,
+  title={ARTICLE_TITLE},
+  author={Popchanovska, Evgenija and Gjorgjevikj, Ana and Rizinski, Maryan and Chitkushev, Lubomir T and Vodenska, Irena and Trajanov, Dimitar},
+  journal={JOURNAL_NAME},
+  volume={XXX},
+  pages={PAGES},
+  year={2026},
+  publisher={PUBLISHER}
+}
+```
