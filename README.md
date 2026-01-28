@@ -1,12 +1,12 @@
 # Research on Systemic Failures in AI Applications
 
-This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. The project focuses on identifying AI-related risks and extracting mitigation actions, which are organized into a structured taxonomy for consistent classification and analysis.
+This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. ***The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing MIT AI Risk Mitigation Taxonomy.***
 
 ---
 
 ## Introduction
 
-This research explores systemic failures in AI applications as reported by news media, with the goal of identifying recurring risk patterns and mitigation strategies. By analyzing real-world AI incidents, we aim to better understand how failures emerge across technical, organizational, and societal dimensions. ***The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, supporting more consistent evaluation and governance of AI systems.***
+This research explores systemic failures in AI applications as reported by news media, with the goal of identifying recurring risk patterns and mitigation strategies. By analyzing real-world AI incidents, we aim to better understand how failures emerge across technical, organizational, and societal dimensions.
 
 ---
 
