@@ -27,7 +27,8 @@ In this phase, each incident text is transformed into an individual task and sub
 In this phase, AI incident mitigation statements are submitted to the OpenAI Batch API using GPT-5-mini to generate a hierarchical taxonomy of mitigation actions. After obtaining the derived taxonomies from the model, we manually reviewed each category and subcategory against MIT's taxonomy, stored unmatched subcategories separately, clustered them to define new categories where appropriate, and identified completely four new categories and two new subcategories within existing categories.
 
 _The newly added subcategories and categories are in blue._
-<img width="2010" height="670" alt="image" src="https://github.com/user-attachments/assets/77b64be3-05b2-400d-9cf5-eb63171fb37a" />
+<img width="1005" height="348" alt="image" src="https://github.com/user-attachments/assets/1dd80dd6-1d1a-4171-bd8e-47cdb4dbe461" />
+
 
 ---
 
