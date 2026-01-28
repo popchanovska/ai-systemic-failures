@@ -16,8 +16,13 @@ We use data from three sources — AI Incident Databas (AIID), AIAAIC and AI Inc
 
 ---
 
-# Mitigation Extraction
+## Mitigation Extraction
 In this phase, each incident text is transformed into an individual task and submitted to the OpenAI Batch API, where GPT-5-mini extracts the corresponding mitigation actions. The resulting JSONL file contains standardized mitigation statements that will be used for taxonomy development and classification.
 
 ---
+## Taxonomy
+In this phase, AI incident mitigation statements are processed in batches and submitted to the OpenAI Batch API using GPT-5-mini to generate a hierarchical taxonomy of mitigation actions.
+
+--
+## Classification
 
