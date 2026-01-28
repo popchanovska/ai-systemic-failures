@@ -24,7 +24,7 @@ In this phase, each incident text is transformed into an individual task and sub
 ---
 
 ## Taxonomy
-In this phase, AI incident mitigation statements are submitted to the OpenAI Batch API using GPT-5-mini to generate a hierarchical taxonomy of mitigation actions. After obtaining the derived taxonomies from the model, we manually reviewed each category and subcategory against MIT's taxonomy, stored unmatched subcategories separately, clustered them to define new categories where appropriate, and identified completely four new categories and two new subcategories within existing categories.
+In this phase, AI incident mitigation statements are submitted to the OpenAI Batch API using GPT-5-mini to generate a hierarchical taxonomy of mitigation actions. After obtaining the derived taxonomies from the model, we manually reviewed each category and subcategory against MIT's taxonomy, stored unmatched subcategories separately, clustered them to define new categories where appropriate, and identified completely four new categories and two new subcategories within existing categories. With this, we have 32 subcategories in total.
 
 _The newly added subcategories and categories are in blue._
 <img width="1005" height="348" alt="image" src="https://github.com/user-attachments/assets/1dd80dd6-1d1a-4171-bd8e-47cdb4dbe461" />
@@ -38,3 +38,5 @@ In this phawse, we classify AI incident mitigation actions using GPT-5-mini, ass
 ---
 
 ## Results
+Results
+A total of 6,893 rows containing mitigation texts were labeled, resulting in 23,991 assigned labels. Of these, 9,626 correspond to newly identified subcategories, while 14,365 match existing subcategories. This shows that although 14,365 mitigation actions align with known categories, approximately **67%** more labels reflect previously unseen mitigation patterns, highlighting the emergence of new categories of mitigation in AI incidents.
