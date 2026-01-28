@@ -54,6 +54,7 @@ A total of 6,893 rows containing mitigation texts were labeled, resulting in 23,
 
 **License:** This project is licensed under the [Apache License 2.0](LICENSE.txt).
 
+**Citation:**
 ```yaml
 @article{KEYWORD,
   title={ARTICLE_TITLE},
