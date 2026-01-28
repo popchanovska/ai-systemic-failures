@@ -33,7 +33,7 @@ _The newly added subcategories and categories are in blue._
 ---
 
 ## Classification
-In this phawse, we classify AI incident mitigation actions using GPT-5-mini, assigning each up to five of 32 predefined subcategories. At first, we manually reviewed 300 randomly selected classified texts to assess accuracy, iteratively testing and refining multiple prompt formulations with outputs checked at each step, and in each iteration, a random 5% sample of the final dataset was examined, defining accuracy based on our mutual agreement on label assignment.
+In this phase, we classify AI incident mitigation actions using GPT-5-mini, assigning each up to five of 32 predefined subcategories. At first, we manually reviewed 300 randomly selected classified texts to assess accuracy, iteratively testing and refining multiple prompt formulations with outputs checked at each step, and in each iteration, a random 5% sample of the final dataset was examined, defining accuracy based on our mutual agreement on label assignment.
 
 ---
 
