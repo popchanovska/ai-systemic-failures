@@ -2,6 +2,9 @@
 
 This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. ***The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).***
 
+<img width="918" height="700" alt="image" src="https://github.com/user-attachments/assets/1aa2e3fb-f0d3-48ac-9720-39c4d936a6b9" />
+
+
 ---
 
 ## Introduction
@@ -20,9 +23,15 @@ We use data from three sources — [AI Incident Databas (AIID)](https://incident
 In this phase, each incident text is transformed into an individual task and submitted to the OpenAI Batch API, where GPT-5-mini extracts the corresponding mitigation actions. The resulting JSONL file contains standardized mitigation statements that will be used for taxonomy development and classification.
 
 ---
+
 ## Taxonomy
-In this phase, AI incident mitigation statements are processed in batches and submitted to the OpenAI Batch API using GPT-5-mini to generate a hierarchical taxonomy of mitigation actions.
+In this phase, AI incident mitigation statements are submitted to the OpenAI Batch API using GPT-5-mini to generate a hierarchical taxonomy of mitigation actions. After obtaining the derived taxonomies from the model, we manually reviewed each category and subcategory against MIT's taxonomy, stored unmatched subcategories separately, clustered them to define new categories where appropriate, and identified completely four new categories and two new subcategories within existing categories.
 
---
+---
+
 ## Classification
+In this phawse, we classify AI incident mitigation actions using GPT-5-mini, assigning each up to five of 32 predefined subcategories. We manually reviewed 300 randomly selected classified texts to assess accuracy, iteratively testing and refining multiple prompt formulations with outputs checked at each step, and in each iteration, a random 5% sample of the final dataset was examined, defining accuracy based on our mutual agreement on label assignment.
 
+---
+
+## Results
