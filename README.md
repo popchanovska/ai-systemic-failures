@@ -1,6 +1,6 @@
 # Research on Systemic Failures in AI Applications
 
-This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. ***The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).***
+This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. **The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).**
 
 <img width="1988" height="440" alt="image" src="https://github.com/user-attachments/assets/57b58cdb-7e53-43e2-9135-38648748d985" />
 
@@ -25,6 +25,9 @@ In this phase, each incident text is transformed into an individual task and sub
 
 ## Taxonomy
 In this phase, AI incident mitigation statements are submitted to the OpenAI Batch API using GPT-5-mini to generate a hierarchical taxonomy of mitigation actions. After obtaining the derived taxonomies from the model, we manually reviewed each category and subcategory against MIT's taxonomy, stored unmatched subcategories separately, clustered them to define new categories where appropriate, and identified completely four new categories and two new subcategories within existing categories.
+
+_The newly added subcategories and categories are in blue._
+<img width="2010" height="670" alt="image" src="https://github.com/user-attachments/assets/77b64be3-05b2-400d-9cf5-eb63171fb37a" />
 
 ---
 
