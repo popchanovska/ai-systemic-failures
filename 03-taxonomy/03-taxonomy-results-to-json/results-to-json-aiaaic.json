@@ -1,0 +1,602 @@
+[
+  {
+    "Platform content moderation & removal": [
+      "Content takedowns and removals",
+      "Account, bot and creator bans",
+      "Content labeling, disclaimers and 'no AI' tags",
+      "Third-party fact-checking and verification partnerships",
+      "Proactive and reactive moderation workflows"
+    ],
+    "Model & product safety features": [
+      "Prompt filtering and automated guardrails",
+      "Safer-model routing and redirection for sensitive queries",
+      "Parental controls and age-based experience restrictions",
+      "User-facing behavioral nudges (break reminders, discourage overreliance)",
+      "Likeness, voice and image usage controls (opt-in/consent mechanisms)"
+    ],
+    "Crisis support & mental health mitigations": [
+      "Hotline referrals and crisis-resource signposting",
+      "Distress detection and conversational de-escalation",
+      "Sensitive-response protocols and escalation to humans",
+      "Urgent safety reviews and incident triage"
+    ],
+    "Transparency, disclosure & openness": [
+      "Algorithm and model open-sourcing / code publication",
+      "System cards, model cards and training disclosures",
+      "AI provenance metadata and visible/invisible watermarking",
+      "AI-generation attribution and credit labels",
+      "Crawl control and robots.txt-based site owner controls"
+    ],
+    "Investigations, audits & reviews": [
+      "Internal incident investigations and root-cause analysis",
+      "External audits and reverse-audits",
+      "Regulatory probes and government inquiries",
+      "Third-party expert reviews and shared forensic analysis"
+    ],
+    "Legal responses, lawsuits & regulatory orders": [
+      "Lawsuits filed against or by AI companies",
+      "Settlements, class-action resolutions and consent decrees",
+      "Regulatory enforcement actions, fines and official sanctions",
+      "Court orders, access bans and judicial injunctions"
+    ],
+    "Remediation, compensation & customer remedies": [
+      "Refunds, credits and reimbursements to affected users",
+      "Account corrections, removals and reinstatements",
+      "Compensation payouts, settlements and statutory damages"
+    ],
+    "Policy changes & content rules": [
+      "Bans on specific content types or use-cases (deepfakes, sexual content, etc.)",
+      "Updates to terms of service and platform enforcement rules",
+      "Restrictions on model outputs or disallowed categories"
+    ],
+    "Collaboration with experts, stakeholders & industry": [
+      "Engagement with mental health professionals and clinicians",
+      "Academic and researcher partnerships for labeling and benchmarking",
+      "Industry negotiations and collective bargaining with creators/unions",
+      "Partnerships with publishers, fact-checkers and verification organisations"
+    ],
+    "Detection, monitoring & defensive tooling": [
+      "AI-generated content detection tools (audio, image, music detectors)",
+      "Watermark detectors and SynthID-style verification tools",
+      "Active monitoring, logging and anomaly detection",
+      "Bug bounty programs and coordinated vulnerability disclosure"
+    ],
+    "Security & vulnerability remediation": [
+      "Patching, software updates and product recalls",
+      "Database exposure response and access shutdowns",
+      "Sandboxing, access controls and credential hardening",
+      "Account suspensions and takedowns for security incidents"
+    ],
+    "Operational controls & process changes": [
+      "Human-in-the-loop and mandatory human review backstops",
+      "Staffing changes, new trust & safety hires and governance updates",
+      "Feature rollbacks, opt-in/opt-out changes and staged launches",
+      "Dedicated 24/7 monitoring and incident response teams"
+    ],
+    "Content provenance & intellectual property (IP) responses": [
+      "Copyright takedowns, cease-and-desist actions and removals",
+      "Licensing demands, proposed compensation frameworks and licensing models",
+      "Platform removal or demotion of infringing AI-generated content",
+      "Publisher and rights-holder demands for disclosure of training sources"
+    ],
+    "Education, warnings & user guidance": [
+      "Public warnings and advisories about scams and deepfakes",
+      "Advice to users to verify AI outputs and triangulate sources",
+      "Published tips, guides and crisis-support contacts for the public",
+      "Retraining and awareness programs for staff and contractors"
+    ],
+    "Enforcement & law enforcement cooperation": [
+      "Reporting to and cooperation with police and investigators",
+      "Arrests, prosecutions, extraditions and criminal charges",
+      "Law-enforcement-led takedowns, seizures and asset forfeiture",
+      "Preservation of evidence and legal preservation requests"
+    ]
+  },
+  {
+    "Product & Technical Fixes": [
+      "Security patches",
+      "Feature disabling/pausing",
+      "Model-specific mitigations",
+      "System/algorithm adjustments",
+      "Crawler and access controls"
+    ],
+    "Content Moderation & Removals": [
+      "Account suspensions and bans",
+      "Content and media takedowns",
+      "Platform content removals after reporting",
+      "Ad removals and ad account actions"
+    ],
+    "Policy, Terms & Governance": [
+      "Terms of service and privacy policy updates",
+      "Age and usage restrictions",
+      "Responsible AI and internal governance commitments",
+      "Consent and disclosure policy changes"
+    ],
+    "Legal & Regulatory Actions": [
+      "Lawsuits and copyright claims",
+      "Fines, penalties and regulatory orders",
+      "Legislation and statutory proposals",
+      "Settlements and consent decrees"
+    ],
+    "Investigations & Audits": [
+      "Internal company investigations",
+      "Regulatory and watchdog inquiries",
+      "Independent audits and technical reviews"
+    ],
+    "Data & Training Practices": [
+      "Dataset removals and withdrawals",
+      "Data deletion and retention practices",
+      "Licensing deals and data use agreements",
+      "Dataset auditing and stewardship mechanisms"
+    ],
+    "Moderation & Safety Processes": [
+      "Automated and human review workflows",
+      "Content filtering and safety features",
+      "Watermarking and misuse prevention",
+      "Detection and reporting mechanisms"
+    ],
+    "Communications & Public Statements": [
+      "Apologies and public acknowledgements",
+      "Corrections and clarifications",
+      "Press releases and media statements"
+    ],
+    "User Controls & Support Tools": [
+      "Privacy opt-outs and toggles",
+      "Reporting and takedown mechanisms",
+      "Account management and deletion tools",
+      "Parental controls and guidance"
+    ],
+    "Law Enforcement Responses": [
+      "Arrests and criminal charges",
+      "Evidence seizure and police investigations",
+      "Public police advisories and warnings"
+    ],
+    "Industry Agreements & Contractual Safeguards": [
+      "Contractual consent and compensation clauses",
+      "Collective bargaining and union protections",
+      "Industry commitments and cross-company agreements"
+    ],
+    "Research, Benchmarks & Publications": [
+      "Security and attack research papers",
+      "Benchmarks and accuracy tests",
+      "Academic dataset and model audits"
+    ],
+    "Transparency & Labeling": [
+      "Model cards and system documentation",
+      "Content provenance and source citation",
+      "Visible AI labels and disclaimers"
+    ],
+    "Operational Responses & Customer Remedies": [
+      "Service suspensions and rollbacks",
+      "Refunds and customer compensation",
+      "Operational caps and usage limits"
+    ],
+    "Victim Protection & Remediation": [
+      "Gag orders and identity protections",
+      "Counseling and victim support services",
+      "Protective measures (alarms, cameras, fencing)"
+    ]
+  },
+  {
+    "Public communications and apologies": [
+      "Policy reiterations and defenses",
+      "Apologies and expressions of regret",
+      "Clarifications and claim corrections",
+      "Notices to customers, partners, or the public"
+    ],
+    "Legal and regulatory actions": [
+      "Regulatory investigations and probes",
+      "Fines, enforcement orders, bans and suspensions",
+      "Lawsuits and legal filings",
+      "Cease-and-desist letters and legal threats"
+    ],
+    "Product and feature changes": [
+      "User controls and opt-outs",
+      "Feature disabling, rollback, or recall",
+      "Product updates, patches and fixes",
+      "Operational or payment/incentive model changes"
+    ],
+    "Data practices and privacy measures": [
+      "Promises to delete or stop storing data",
+      "Data-use restrictions and opt-outs for training",
+      "Transparency, access and privacy-impact assessments",
+      "Data-handling, storage and security commitments"
+    ],
+    "Content moderation, takedowns and removals": [
+      "Platform removals and account suspensions",
+      "DMCA and copyright takedowns",
+      "Removal of misleading or AI-generated content",
+      "Takedown assistance and opt-out support"
+    ],
+    "Third-party testing, audits and transparency reports": [
+      "Commissioning or allowing external tests",
+      "Publication of public and private test reports",
+      "Report editing, review and 'track changes' practices",
+      "Making third-party reports available to customers"
+    ],
+    "Safety incidents and investigations (physical/operational)": [
+      "Vehicle and autonomous system crashes and probes",
+      "Robotic/industrial accidents and emergency response",
+      "Security breaches and incident-response actions",
+      "Police and law-enforcement investigations"
+    ],
+    "Employment, HR and internal reporting": [
+      "HR complaints, discrimination and retaliation cases",
+      "Employee internal reporting and whistleblowing",
+      "Employer restrictions and internal AI-use policies",
+      "Employment-related litigation and court processes"
+    ],
+    "Research, studies and academic responses": [
+      "Published studies and performance/behavior analyses",
+      "Release of tools, datasets and methods",
+      "Replication, follow-up testing and validation",
+      "Researcher-company collaboration and disclosures"
+    ],
+    "Policy, legislation and governance initiatives": [
+      "Proposed bills, Acts and legislative initiatives",
+      "National guidelines, blueprints and government strategies",
+      "Municipal or pilot program policy rules and guardrails",
+      "Parliamentary inquiries, court challenges and oversight"
+    ],
+    "Platform and developer governance": [
+      "App/store/GPT-store screening and moderation",
+      "Developer account suspensions and policy enforcement",
+      "Marketplace rule changes and content restrictions",
+      "Proactive platform screening and automated detection"
+    ],
+    "Child safety and sexual content safeguards": [
+      "CSAM and deepfake child sexual content enforcement",
+      "Platform policy updates to block sexual/minor content",
+      "School and district responses to AI-generated nudes",
+      "Criminal prosecutions and sentencing for illicit content"
+    ],
+    "Community, industry and civil society responses": [
+      "Activist campaigns, public petitions and organized criticism",
+      "Union, guild and strike actions over AI use",
+      "NGO complaints, watchdog filings and civil society inquiries",
+      "Community-led removals, crowdsourced takedown efforts"
+    ],
+    "Transparency, corrections and retractions in media and research": [
+      "Media corrections, retractions and apologies",
+      "Journal and publisher retractions and process investigations",
+      "Disclosure of AI assistance and provenance labeling",
+      "Updates and public explanations for published errors"
+    ],
+    "Technical mitigations and model alignment": [
+      "Guardrails, filters and content-labeling systems",
+      "Watermarking, metadata and authenticity tools",
+      "Reinforcement learning, adversarial testing and red-teaming",
+      "Training-data changes: deduplication, filtering, synthetic data"
+    ]
+  },
+  {
+    "Content Removal & Enforcement Actions": [
+      "Platform takedowns of specific content",
+      "Deletion or removal of accounts and channels",
+      "Removal of specific media assets (tracks, images, videos)",
+      "Content rollback, retraction or withdrawal"
+    ],
+    "Fact-Checking, Debunking & Media Verification": [
+      "Independent fact-check publications and reports",
+      "Expert forensic analysis and verification",
+      "Attached warnings, labels and context notes"
+    ],
+    "Legal & Regulatory Proceedings": [
+      "Lawsuits, class actions and private litigation",
+      "Cease-and-desist letters and pre-litigation demands",
+      "Regulatory enforcement actions and fines",
+      "Court orders, judicial rulings and legal remedies"
+    ],
+    "Apologies, Admissions & Public Statements": [
+      "Corporate apologies and acknowledgements",
+      "Executive or individual apologies and taking responsibility",
+      "Public clarifications and walkbacks"
+    ],
+    "Security Vulnerability Disclosure & Remediation": [
+      "Vulnerability reporting to vendors or security centers",
+      "Patch deployment, revocation and technical remediation",
+      "Bug bounties, rewards and recognition for reporters"
+    ],
+    "Product Errors, Bug Fixes & Feature Changes": [
+      "Bug identification and software fixes",
+      "Temporary feature deactivations or suspensions",
+      "Permanent feature removal or product rollbacks",
+      "Product updates, re-releases and configuration changes"
+    ],
+    "Policy Changes, Governance & Standards": [
+      "Company policy updates governing AI use",
+      "Industry-wide standards, labeling and provenance initiatives",
+      "Government policy proposals, summits and legislative planning"
+    ],
+    "Dataset, Training Data & Copyright Responses": [
+      "Dataset retractions, takedowns and blacklisting",
+      "Opt-out mechanisms and removal requests for training data",
+      "Copyright complaints and claims about model training"
+    ],
+    "Investigations, Audits & Independent Reviews": [
+      "Internal investigations and company postmortems",
+      "External audits, commissioned independent reviews",
+      "Regulatory or oversight probes and inquiries"
+    ],
+    "Platform Moderation Practices & Tools": [
+      "Human moderation staffing and local-language moderation",
+      "Algorithmic moderation, ranking changes and safeguards",
+      "User reporting, transparency tools and moderation workflows"
+    ],
+    "Privacy, Biometric & Surveillance Responses": [
+      "Suspension or rollback of biometric or facial-recognition systems",
+      "Deletion, retention changes and opt-outs for biometric data",
+      "Data protection authority investigations, guidance and penalties"
+    ],
+    "Researcher Disclosures & Collaborative Remediation": [
+      "Researchers sharing findings with affected companies",
+      "Red-teaming, invited external researchers and collaborations",
+      "Conference presentations and public researcher disclosures"
+    ],
+    "User Remediation & Support Actions": [
+      "Account reinstatement, unlocking and appeals processes",
+      "Refunds, settlements, compensation and customer remedies",
+      "Assistance with police reports or criminal-investigation cooperation"
+    ],
+    "Safety & Operational Responses": [
+      "Voluntary recalls and regulator filings for safety issues",
+      "Operational procedure changes, testing and safety protocols",
+      "Physical incident responses and emergency mitigations"
+    ],
+    "Community & Collective Actions": [
+      "Boycotts, collective migration and artist/platform withdrawals",
+      "Moderator strikes, community moderation actions and protests",
+      "Grassroots audits, civic campaigns and organized advocacy"
+    ]
+  },
+  {
+    "Moderation & Content Enforcement": [
+      "Automated content removal and takedowns",
+      "Account suspensions, bans and enforcement actions",
+      "Community-driven enforcement (votes to kick, crowd removals)",
+      "Targeted removals of inauthentic or malicious networks",
+      "Removal of policy-violating ads and commerce listings"
+    ],
+    "User Controls & Safety Features": [
+      "Blocking, muting and user-driven privacy controls",
+      "Personal-space and boundary features in VR/AR",
+      "Parental controls and child account protections",
+      "Profile locking and access-restriction tools",
+      "Opt-outs and in-app privacy settings (data/ad controls)"
+    ],
+    "Automated Detection & AI Tools Deployment": [
+      "Speech and text monitoring systems (harassment detection)",
+      "Automated image/video scanning and content review",
+      "Facial recognition and biometric system deployments",
+      "Predictive flagging and risk-scoring tools",
+      "Algorithmic moderation and model constraint mechanisms"
+    ],
+    "Human Oversight & Intervention": [
+      "Human moderator review and escalation",
+      "Manual interventions and operational fixes",
+      "Coordination with law enforcement and arrests",
+      "Human-in-the-loop checks for flagged cases",
+      "Manual appeals and reinstatement processes"
+    ],
+    "Legal, Regulatory & Investigations": [
+      "Lawsuits, class actions and legal settlements",
+      "Regulatory fines, orders and administrative penalties",
+      "Governmental probes and formal investigations",
+      "Court rulings, injunctions and judicial reviews"
+    ],
+    "Transparency, Notifications & Public Communication": [
+      "Public statements, apologies and press responses",
+      "User notifications about deployed tools or takedowns",
+      "Publishing reports, disclosures and blogposts",
+      "Corrections, clarifications and post-incident updates"
+    ],
+    "Data Practices, Privacy & Data Handling": [
+      "Data deletion, anonymization and retention commitments",
+      "Consent, biometric use policies and guidelines",
+      "Restrictions and changes to data sharing and sales",
+      "Privacy impact assessments and DPIAs"
+    ],
+    "Product Fixes, Recalls & Feature Rollbacks": [
+      "Software rollbacks, patches and emergency updates",
+      "Product recalls and over-the-air software fixes",
+      "Feature disabling or limiting after harms",
+      "Security fixes and republishing after code rectification"
+    ],
+    "Accessibility & Disability-related Mitigations": [
+      "Accessibility litigation outcomes and settlements",
+      "Accessibility tooling, audits and compliance suites",
+      "Policy positions on overlays and accessibility solutions"
+    ],
+    "Workplace & Labor Responses": [
+      "Union actions, strikes and collective organizing",
+      "Company disciplinary or anti-strike measures",
+      "Worker support, severance and outplacement efforts",
+      "Changes to worker-facing verification or monitoring policies"
+    ],
+    "Research, Audits & External Studies": [
+      "Independent studies on algorithmic performance and bias",
+      "Internal and external audits of deployed systems",
+      "Academic investigations, retractions and publisher actions"
+    ],
+    "Law Enforcement & Public-Sector Use & Oversight": [
+      "Police adoption, suspension or return of surveillance tech",
+      "Oversight panels, ethics reviews and DPIA commitments",
+      "International cooperation and national-security responses",
+      "Discipline and consequences for misuse by officials"
+    ],
+    "Consumer Protection & Platform Policy Changes": [
+      "Ad-targeting restrictions and ad policy changes",
+      "Marketplace and product listing enforcement",
+      "Antitrust, buy-box and competition-related inquiries",
+      "Restrictions on commercial exploitation of platform data"
+    ],
+    "Community & Civil Society Advocacy Actions": [
+      "Rights groups' campaigns and calls for moratoria",
+      "Public campaigns, hashtags and grassroots mapping",
+      "Legal challenges and expert opinions from civil society",
+      "Open letters, petitions and coordinated advocacy"
+    ],
+    "Incident Response & Customer Support": [
+      "Hotlines, tip lines and 24-hour human review options",
+      "Customer notifications, refunds and remedial measures",
+      "Forensic investigation and evidence validation",
+      "Temporary service suspensions, workarounds and restorations"
+    ]
+  },
+  {
+    "Legal actions and litigation": [
+      "Lawsuits filed (class actions, individual suits)",
+      "Injunctions, appeals, dismissals and court orders",
+      "Copyright, IP and takedown claims",
+      "Criminal investigations and prosecutions",
+      "Arbitration and settlement processes"
+    ],
+    "Regulatory and official investigations": [
+      "Data protection authority inquiries and rulings",
+      "Government audits and official inquiries",
+      "Judicial rulings on legality and constitutional issues",
+      "Administrative enforcement actions and regulatory fines"
+    ],
+    "Audits, third-party reviews, and independent assessments": [
+      "Algorithmic bias audits and fairness assessments",
+      "Independent security audits and breach investigations",
+      "Human rights and impact assessments",
+      "Academic reproduction, peer review, and external validation"
+    ],
+    "Policy, governance, and procurement changes": [
+      "Internal company policy revisions and governance updates",
+      "Conference, publisher, and research-policy changes",
+      "Contract terminations, procurement changes and vendor reviews",
+      "Governmental policy or guideline updates"
+    ],
+    "Product, feature and service removal or suspension": [
+      "Feature disabling or permanent removal",
+      "Temporary service suspension or takedown",
+      "Account bans, IP blocks and access restrictions",
+      "Product shelving or decommissioning"
+    ],
+    "Settlements, fines, compensation, and remediation": [
+      "Financial settlements and compensation payouts",
+      "Regulatory fines and penalty payments",
+      "Debt repayments, restitution and dropped claims",
+      "Remedial programs and distribution schemes"
+    ],
+    "Technical fixes, patches, and algorithmic changes": [
+      "Security patches and vulnerability fixes",
+      "Algorithm retraining, threshold adjustments, and bias mitigation",
+      "Software updates and feature redesigns",
+      "Release restrictions and staged or limited model/code release"
+    ],
+    "Data handling, storage, deletion, and access controls": [
+      "Data deletion and image/faceprint purges",
+      "Restrictions on data sharing and third-party access",
+      "Data storage location and retention limits",
+      "Data minimization, opt-out proposals and consent mechanisms"
+    ],
+    "Transparency, disclosure, and public communication": [
+      "Public apologies and mea culpas",
+      "Notices to affected users and transparency reporting",
+      "Executive statements, testimony and direct outreach",
+      "Public release or sharing of internal documents and reports"
+    ],
+    "Operational and workforce measures": [
+      "Employee discipline, firings and rehiring actions",
+      "Training programs, HR reorganizations and staffing changes",
+      "Employee engagement, communications and counseling",
+      "Worker protections, benefits and operational safety measures"
+    ],
+    "Platform moderation and content actions": [
+      "Content removal, takedowns and demotions",
+      "Fact-checking, labeling and reduced visibility",
+      "Ad policy enforcement and targeting restrictions",
+      "Account suspensions and platform-specific enforcement"
+    ],
+    "Civil society, academic, and community responses": [
+      "Petitions, open letters and academic boycotts",
+      "Protests, strikes and worker organizing",
+      "NGO reports, advocacy campaigns and public hearings",
+      "Crowdsourced investigations and volunteer data collection"
+    ],
+    "Law enforcement use and oversight of surveillance technology": [
+      "Police and prosecutor policy changes and usage restrictions",
+      "Moratoria and bans on law-enforcement deployments",
+      "Oversight requirements, audits and disclosure obligations",
+      "Operational protocols requiring corroborating evidence or supervisor review"
+    ],
+    "User controls, consent, and privacy features": [
+      "Opt-in/opt-out and real-name registration changes",
+      "User-facing override and appeal mechanisms",
+      "Parental controls and protections for minors' data",
+      "Tools for users to delete, review or limit their data use"
+    ]
+  },
+  {
+    "Corporate Responses and Statements": [
+      "Denials and defenses",
+      "Privacy protection statements",
+      "Statements by affiliated institutions and individuals",
+      "Post-litigation public explanations"
+    ],
+    "Court Rulings and Judicial Orders": [
+      "Damages awarded and fines",
+      "Provisional orders and injunctions to remove or disable results",
+      "Judicial dismissals and procedural decisions",
+      "Judicial guidance on algorithmic evidence and liability"
+    ],
+    "Legal Actions and Litigation Filings": [
+      "Defamation and autocomplete lawsuits filed",
+      "Class actions and challenges to automated decision systems",
+      "Regulatory complaints and commission allegations",
+      "Threats, legal notices and cease-and-desist declarations"
+    ],
+    "Product and Algorithm Modifications": [
+      "Algorithm tweaks and fixes in response to reports",
+      "Blocking or restricting content and AdWords changes",
+      "Interface disclaimers and settings changes"
+    ],
+    "Investigations, Reviews and Internal Actions": [
+      "Company/internal reviews of study methodology",
+      "Institutional investigations and personnel contract actions",
+      "Collaborations to develop internal audit or testing tools"
+    ],
+    "Research, Analysis and Publications": [
+      "Academic papers and symposium presentations",
+      "Independent analyses and research reports",
+      "Oversight and commission reports critiquing programs"
+    ],
+    "Operational and Policy Changes by Employers and Agencies": [
+      "Scheduling policy changes and managerial interventions",
+      "Use and advocacy of scheduling software to improve hours",
+      "Agency operational actions related to automated systems (benefits, garnishments, collections)"
+    ],
+    "Enforcement, Suspensions and Refunds": [
+      "Government suspensions of services, tests and institutions",
+      "Refunds and candidate compensation actions",
+      "Regulatory warnings and official government interventions"
+    ],
+    "Outcomes, Settlements and Program Terminations": [
+      "Settlements requiring system fixes, testing or formula changes",
+      "Program terminations and abandonment of automated systems",
+      "Administrative remedies such as hiring to address backlogs"
+    ],
+    "Advocacy, Toolkits and Workshops": [
+      "Algorithmic accountability toolkits and reports",
+      "Workshops and convenings on litigating algorithms",
+      "Legislative and activist promotion of proposals and laws"
+    ],
+    "Privacy Advocacy and Criticism": [
+      "Letters and complaints raising privacy concerns",
+      "Calls to publish privacy-protection techniques and transparency requests"
+    ],
+    "Media Coverage and Publicity": [
+      "News reporting and investigative journalism leading to action",
+      "Viral social media incidents and journalist follow-ups",
+      "Documentary filmmaking and direct contact with subjects"
+    ],
+    "Reputation Remedies and Public Responses": [
+      "Cease-and-desist declarations and damages paid by media outlets",
+      "Personal reputation restoration efforts (affidavits, books)",
+      "Requests for removal, compensation and related public demands"
+    ]
+  }
+]
