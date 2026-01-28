@@ -12,7 +12,7 @@ This research explores systemic failures in AI applications as reported by news 
 
 ## Datasets
 
-We use data from three sources — AI Incident Databas (AIID), AIAAIC and AI Incidents Monitor (developed by OECD), with over 9,000 rows in total. Each row represents one AI-related incident. All three datasets follow a similar methodology in which each AI incident reported in the news media is recorded as a distinct entry and linked to its original source.
+We use data from three sources — [AI Incident Databas (AIID)](https://incidentdatabase.ai/), [AIAAIC](https://docs.google.com/spreadsheets/d/1Bn55B4xz21-_Rgdr8BBb2lt0n_4rzLGxFADMlVW0PYI/edit?gid=888071280#gid=888071280) and [AI Incidents Monitor](https://oecd.ai/en/incidents) (developed by OECD), with over 9,000 rows in total. Each row represents one AI-related incident. All three datasets follow a similar methodology in which each AI incident reported in the news media is recorded as a distinct entry and linked to its original source.
 
 ---
 
