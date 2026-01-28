@@ -2,7 +2,8 @@
 
 This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. ***The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).***
 
-<img width="918" height="700" alt="image" src="https://github.com/user-attachments/assets/1aa2e3fb-f0d3-48ac-9720-39c4d936a6b9" />
+<img width="1712" height="444" alt="image" src="https://github.com/user-attachments/assets/2c3b6d6d-3ae5-4b0c-a448-b5155fbfc81a" />
+
 
 
 ---
