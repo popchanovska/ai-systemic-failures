@@ -10,11 +10,14 @@ This research explores systemic failures in AI applications as reported by news 
 
 ---
 
-## Data and Methodology
+## Data
 
-The dataset is derived from news articles reporting AI-related incidents. Each article is processed to extract incident descriptions, mitigation actions, and associated risk categories.
+We use data from three sources — AI Incident Databas (AIID), AIAAIC and AI Incidents Monitor (developed by OECD), with over 9,000 rows in total. Each row represents one AI-related incident. All three datasets follow a similar methodology in which each AI incident reported in the news media is recorded as a distinct entry and linked to its original source.
 
-GPT-5-mini is used to identify mitigation statements, which are then manually reviewed to ensure consistency and accuracy. The extracted data is organized into structured records containing:
+---
+
+# Mitigation
+GPT-5-mini is used to identify mitigation statements, which are then manually reviewed to ensure accuracy. The extracted data is organized into structured records containing:
 
 - Incident ID  
 - Mitigation action  
@@ -23,3 +26,4 @@ GPT-5-mini is used to identify mitigation statements, which are then manually re
 When multiple mitigations appear in a single incident, each action is stored as a separate entry.
 
 ---
+
