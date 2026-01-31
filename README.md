@@ -50,7 +50,7 @@ A total of 6,893 rows containing mitigation texts were labeled, resulting in 23,
 
 ## Authors, License & Citation
 
-**Authors:** [Evgenija Popchanovska](https://github.com/popchanovska), Ana Gjorgjevikj, [Maryan Rizinski](https://github.com/rizinski), Lou Chitkushev, Irena Vodenska, [Dimitar Trajanov](https://github.com/trajanov)
+**Authors:** [Evgenija Popchanovska](https://github.com/popchanovska), [Ana Gjorgjevikj](https://github.com/g-ana), [Maryan Rizinski](https://github.com/rizinski), Lou Chitkushev, Irena Vodenska, [Dimitar Trajanov](https://github.com/trajanov)
 
 **License:** This project is licensed under the [Apache License 2.0](LICENSE.txt).
 
