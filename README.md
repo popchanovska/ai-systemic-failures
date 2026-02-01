@@ -43,7 +43,7 @@ A total of **6,893** rows containing mitigation texts were labeled, resulting in
 <img width="3564" height="2962" alt="image" src="https://github.com/user-attachments/assets/6de9ffc9-4701-4bd3-8e42-95aeaa86f91c" />
 
 **Comparison of existing vs new AI mitigation subcategories**
-![Comparison of existing vs new AI mitigation subcategories](https://github.com/user-attachments/assets/968831b8-5029-460d-bf98-4301d244ffd7)
+<img width="3564" height="2962" alt="image" src="[https://github.com/user-attachments/assets/6de9ffc9-4701-4bd3-8e42-95aeaa86f91c](https://github.com/user-attachments/assets/968831b8-5029-460d-bf98-4301d244ffd7)" />
 
 **Distribution of subcategories across all three datasets**
 <img width="836" height="691" alt="Screenshot 2026-02-02 at 00 45 11" src="https://github.com/user-attachments/assets/bbb04b4a-e36b-4ce7-94fa-d8f3f149c816" />
