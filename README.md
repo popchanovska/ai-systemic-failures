@@ -44,9 +44,6 @@ A total of **6,893** rows containing mitigation texts were labeled, resulting in
 
 **Comparison of existing vs new AI mitigation subcategories**
 ![Comparison of existing vs new AI mitigation subcategories](https://github.com/user-attachments/assets/968831b8-5029-460d-bf98-4301d244ffd7)
-
-**Distribution of subcategories across all three datasets**
-<img width="842" height="694" alt="distribution" src="https://github.com/user-attachments/assets/ddbe89e2-4b4a-479b-9b92-528866176f14" /> 
 ---
 
 ## Authors, License & Citation
