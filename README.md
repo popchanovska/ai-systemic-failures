@@ -14,7 +14,7 @@ This research explores systemic failures in AI applications as reported by news 
 
 ## Datasets
 
-We use data from three sources — [AI Incident Database (AIID)](https://incidentdatabase.ai/), [AIAAIC](https://docs.google.com/spreadsheets/d/1Bn55B4xz21-_Rgdr8BBb2lt0n_4rzLGxFADMlVW0PYI/edit?gid=888071280#gid=888071280) and [AI Incidents Monitor](https://oecd.ai/en/incidents) (developed by OECD), with over 9,705 rows in total. Each row represents one AI-related incident. All three datasets follow a similar methodology in which each AI incident reported in the news media is recorded as a distinct entry and linked to its original source.
+We use data from three sources — [AI Incident Database (AIID)](https://incidentdatabase.ai/), [AIAAIC](https://docs.google.com/spreadsheets/d/1Bn55B4xz21-_Rgdr8BBb2lt0n_4rzLGxFADMlVW0PYI/edit?gid=888071280#gid=888071280) and [AI Incidents Monitor](https://oecd.ai/en/incidents) (developed by OECD), with **9,705** rows in total. Each row represents one AI-related incident. All three datasets follow a similar methodology in which each AI incident reported in the news media is recorded as a distinct entry and linked to its original source.
 
 ---
 
@@ -37,7 +37,7 @@ In this phase, we classify AI incident mitigation actions using GPT-5-mini, assi
 ---
 
 ## Results
-A total of 6,902 rows containing mitigation texts were labeled, resulting in 23,994 assigned labels. Of these, 9,629 correspond to newly identified subcategories, while 14,365 match existing subcategories. Although 14,365 labels correspond to existing subcategories, previously unseen mitigation patterns are reflected in 9,629 new labels, representing a **67% expansion of the original number of subcategories**.
+A total of **6,902** rows containing mitigation texts were labeled, resulting in 23,994 assigned labels. Of these, 9,629 correspond to newly identified subcategories, while 14,365 match existing subcategories. Although 14,365 labels correspond to existing subcategories, previously unseen mitigation patterns are reflected in 9,629 new labels, representing a **67% expansion of the original number of subcategories**.
 
 **Counts of labels per subcategory**
 <img width="3564" height="2962" alt="image" src="https://github.com/user-attachments/assets/6de9ffc9-4701-4bd3-8e42-95aeaa86f91c" />
