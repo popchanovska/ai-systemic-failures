@@ -2,7 +2,8 @@
 
 This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. **The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).**
 
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/3d98c7f2-05fe-4777-8870-8bacd91c0985" />
+<img width="100%" alt="MIT-ai-risk-mitigation" src="https://github.com/user-attachments/assets/7bc8c1fc-3786-47b0-8cfe-443fbe30ed31" />
+
 
 
 ---
@@ -41,10 +42,10 @@ In this phase, we classify AI incident mitigation actions using GPT-5-mini, assi
 A total of **6,893** rows containing mitigation texts were labeled, resulting in 23,994 assigned labels. Of these, 9,629 correspond to newly identified subcategories, while 14,365 match existing subcategories. Although 14,365 labels correspond to existing subcategories, previously unseen mitigation patterns are reflected in 9,629 new labels, representing a **67% expansion of the original number of subcategories**.
 
 **Counts of labels per subcategory**
-<img width="100%" alt="subcategory_counts-NEW" src="https://github.com/user-attachments/assets/f57088aa-83ec-44f1-847d-8b7bbeb99a80" />
+<img width="100%" alt="subcategory_counts" src="https://github.com/user-attachments/assets/f57088aa-83ec-44f1-847d-8b7bbeb99a80" />
 
 **Comparison of existing vs new AI mitigation subcategories**
-<img width="100%" alt="subcategory_existing_vs_new_NEW-" src="https://github.com/user-attachments/assets/28153aa2-b9e4-438a-91b9-0d6ad8acb5c5" />
+<img width="100%" alt="subcategory_existing_vs_new" src="https://github.com/user-attachments/assets/28153aa2-b9e4-438a-91b9-0d6ad8acb5c5" />
 
 **Distribution of subcategories across all three datasets**
 <img width="100%" alt="distribution" src="https://github.com/user-attachments/assets/e9b2561d-1f46-4f7e-b1ff-49c68d1a9eb0" />
