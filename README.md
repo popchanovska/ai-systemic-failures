@@ -49,7 +49,8 @@ A total of **6,893** rows containing mitigation texts were labeled, resulting in
 <img width="100%" alt="subcategory_existing_vs_new" src="https://github.com/user-attachments/assets/28153aa2-b9e4-438a-91b9-0d6ad8acb5c5" />
 
 **Distribution of subcategories across all three datasets**
-<img width="100%" alt="distribution" src="https://github.com/user-attachments/assets/e9b2561d-1f46-4f7e-b1ff-49c68d1a9eb0" />
+<img width="100%" alt="distribution" src="https://github.com/user-attachments/assets/cc4fbbde-4b03-465e-b58a-89efae2603fd" />
+
 ---
 
 
