@@ -1,6 +1,14 @@
 # When AI Fails, What Works? A Data-Driven Taxonomy of Real-World Risk Mitigation Strategies
 
-This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. **The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).**
+This repository serves as the official companion page for our research paper on systemic AI failures and mitigation strategies in large language model deployments.
+
+The paper analyzes real-world AI incident reporting to study how organizations respond when AI systems fail, and proposes an empirically grounded extension of the MIT AI Risk Mitigation Taxonomy.
+
+As the manuscript is currently under review, this repository does not present final results. Instead, it provides supporting materials, taxonomy structures, prompt templates, and documentation that accompany the paper.
+
+Additional materials and updates will be released upon publication.
+
+<!--This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. **The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).**
 
 <img width="100%" alt="MIT-ai-risk-mitigation" src="https://github.com/user-attachments/assets/7bc8c1fc-3786-47b0-8cfe-443fbe30ed31" />
 
@@ -40,8 +48,7 @@ In this phase, we classify AI incident mitigation actions using GPT-5-mini, assi
 ---
 
 ## Results
-Work in progress...
-<!--A total of **6,893** rows containing mitigation texts were labeled, resulting in 23,994 assigned labels. Of these, 9,629 correspond to newly identified subcategories, while 14,365 match existing subcategories. Although 14,365 labels correspond to existing subcategories, previously unseen mitigation patterns are reflected in 9,629 new labels, representing a **67% expansion of the original number of subcategories**.
+A total of **6,893** rows containing mitigation texts were labeled, resulting in 23,994 assigned labels. Of these, 9,629 correspond to newly identified subcategories, while 14,365 match existing subcategories. Although 14,365 labels correspond to existing subcategories, previously unseen mitigation patterns are reflected in 9,629 new labels, representing a **67% expansion of the original number of subcategories**.
 
 **Counts of labels per subcategory**
 <img width="100%" alt="subcategory_counts" src="https://github.com/user-attachments/assets/f57088aa-83ec-44f1-847d-8b7bbeb99a80" />
@@ -50,7 +57,7 @@ Work in progress...
 <img width="100%" alt="subcategory_existing_vs_new" src="https://github.com/user-attachments/assets/28153aa2-b9e4-438a-91b9-0d6ad8acb5c5" />
 
 **Distribution of subcategories across all three datasets**
-<img width="100%" alt="distribution" src="https://github.com/user-attachments/assets/cc4fbbde-4b03-465e-b58a-89efae2603fd" />-->
+<img width="100%" alt="distribution" src="https://github.com/user-attachments/assets/cc4fbbde-4b03-465e-b58a-89efae2603fd" />
 
 ---
 
@@ -71,5 +78,5 @@ Work in progress...
   pages={PAGES},
   year={2026},
   publisher={PUBLISHER}
-}
+}-->
 ```
