@@ -1,10 +1,10 @@
 # When AI Fails, What Works? A Data-Driven Taxonomy of Real-World Risk Mitigation Strategies
 
-This repository serves as the official companion page for our research paper on systemic AI failures and mitigation strategies in large language model deployments.
+This repository is related to our research paper on systemic AI failures and mitigation strategies in AI-based systems.
 
-The paper analyzes real-world AI incident reporting to study how organizations respond when AI systems fail, and proposes an empirically grounded extension of the MIT AI Risk Mitigation Taxonomy.
+The paper analyzes real-world AI incident reporting to study how organizations respond when AI systems fail, and proposes a data-driven taxonomy that maps AI risks with AI risk mitigation strategies.
 
-As the manuscript is currently under review, this repository does not present final results. Instead, it provides supporting materials, taxonomy structures, prompt templates, and documentation that accompany the paper.
+As the manuscript is currently in preparation, this repository does not present final results. Instead, it provides preliminary work, materials and documentation that accompany the paper.
 
 Additional materials and updates will be released upon publication.
 
