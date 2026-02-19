@@ -40,7 +40,8 @@ In this phase, we classify AI incident mitigation actions using GPT-5-mini, assi
 ---
 
 ## Results
-A total of **6,893** rows containing mitigation texts were labeled, resulting in 23,994 assigned labels. Of these, 9,629 correspond to newly identified subcategories, while 14,365 match existing subcategories. Although 14,365 labels correspond to existing subcategories, previously unseen mitigation patterns are reflected in 9,629 new labels, representing a **67% expansion of the original number of subcategories**.
+Work in progress...
+<!--A total of **6,893** rows containing mitigation texts were labeled, resulting in 23,994 assigned labels. Of these, 9,629 correspond to newly identified subcategories, while 14,365 match existing subcategories. Although 14,365 labels correspond to existing subcategories, previously unseen mitigation patterns are reflected in 9,629 new labels, representing a **67% expansion of the original number of subcategories**.
 
 **Counts of labels per subcategory**
 <img width="100%" alt="subcategory_counts" src="https://github.com/user-attachments/assets/f57088aa-83ec-44f1-847d-8b7bbeb99a80" />
@@ -49,7 +50,7 @@ A total of **6,893** rows containing mitigation texts were labeled, resulting in
 <img width="100%" alt="subcategory_existing_vs_new" src="https://github.com/user-attachments/assets/28153aa2-b9e4-438a-91b9-0d6ad8acb5c5" />
 
 **Distribution of subcategories across all three datasets**
-<img width="100%" alt="distribution" src="https://github.com/user-attachments/assets/cc4fbbde-4b03-465e-b58a-89efae2603fd" />
+<img width="100%" alt="distribution" src="https://github.com/user-attachments/assets/cc4fbbde-4b03-465e-b58a-89efae2603fd" />-->
 
 ---
 
