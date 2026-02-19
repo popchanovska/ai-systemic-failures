@@ -1,4 +1,4 @@
-# Research on Systemic Failures in AI Applications
+# When AI Fails, What Works? A Data-Driven Taxonomy of Real-World Risk Mitigation Strategies
 
 This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. **The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).**
 
