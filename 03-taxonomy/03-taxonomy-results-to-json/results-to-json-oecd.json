@@ -1,0 +1,1993 @@
+[
+  {
+    "Investigations and Inquiries": [
+      "Criminal investigations (police, prosecutors)",
+      "Regulatory and safety investigations (transport, product safety agencies)",
+      "Judicial and parliamentary inquiries (commissions, special committees)",
+      "Technical and forensic examinations (lab analyses, device inspections)",
+      "Official expert panels and fact-finding missions"
+    ],
+    "Legal Proceedings, Lawsuits, and Court Decisions": [
+      "Civil lawsuits and class actions",
+      "Criminal charges and prosecutions",
+      "Court rulings, injunctions and appeals",
+      "Settlements, fines and compensation orders"
+    ],
+    "Regulatory Actions, Policies, and Legislation": [
+      "New laws and statutory amendments",
+      "Moratoria, bans and sectoral restrictions",
+      "Agency creation, mandates and regulatory frameworks",
+      "Policy guidance, standards and government directives"
+    ],
+    "Sanctions, Blacklists, and Trade Restrictions": [
+      "National blacklists and sanctions against companies",
+      "Export controls, licensing and restrictions on technology transfer",
+      "Contract terminations, trade suspensions and business limits"
+    ],
+    "Corporate Responses and Product Changes": [
+      "Security patches, bug fixes and software updates",
+      "Feature removals, rollbacks and product design changes",
+      "Public statements, clarifications and corporate commitments",
+      "Privacy and behavioral policy changes (opt-ins, data-handling)"
+    ],
+    "Recalls, Withdrawals, and Operational Suspensions": [
+      "Product recalls and mandated software revisions",
+      "Service, permit and testing suspensions",
+      "App removals and restorations from stores"
+    ],
+    "Platform Moderation and Content Actions": [
+      "Content takedowns and removal of deepfakes/disinformation",
+      "Account suspensions, deletions and de-anonymization",
+      "Labeling, downranking and demonetization measures",
+      "Moderation policy adjustments and temporary allowances"
+    ],
+    "Monitoring, Detection, and Technical Mitigations": [
+      "User-side detection tools and tracking alerts",
+      "Algorithmic detection and risk-scoring systems",
+      "Defensive cybersecurity measures and bulletins",
+      "Technical mitigations for synthetic media (watermarks, access limits)"
+    ],
+    "Oversight, Transparency, and Accountability Mechanisms": [
+      "Subpoenas, information requests and document demands",
+      "Independent audits, transparency reviews and reporting requirements",
+      "Evidence preservation, device handling and chain-of-custody procedures",
+      "Opt-out, consent, notification and receipt mechanisms"
+    ],
+    "Civil Society, NGO Campaigns, and Public Advocacy": [
+      "Advocacy campaigns, open letters and coalition actions",
+      "Public protests, petitions and grassroots mobilization",
+      "NGO-led assistance, investigations and device-check programs"
+    ],
+    "Research, Auditing, and Technical Studies": [
+      "Academic studies and model evaluation research",
+      "Security audits, vulnerability research and exploit disclosure",
+      "Measurement and advertising/data-use auditing frameworks"
+    ],
+    "Public Advisories, Warnings, and Awareness Campaigns": [
+      "Government and agency public advisories and hotlines",
+      "Media fact-checking outputs and debunking efforts",
+      "Public-awareness and education campaigns on threats"
+    ],
+    "Law Enforcement Operations and Defensive Actions": [
+      "Arrests, detentions and law-enforcement interventions",
+      "Countermeasures, interceptions and military defensive actions",
+      "Operational deployments, surveillance units and control-room operations"
+    ],
+    "Privacy Authority Enforcement and Data Protection Decisions": [
+      "Regulatory fines, deletion orders and prohibitions",
+      "Formal investigations and corrective enforcement by DPAs",
+      "Mandated data-handling changes, opt-outs and consent enforcement"
+    ],
+    "Training, Capacity Building, and Cooperation": [
+      "Training sessions, technical assistance and user training",
+      "International cooperation, joint exercises and shared defenses",
+      "Capacity-building programs for fact-checkers, NGOs and government bodies"
+    ]
+  },
+  {
+    "Regulatory and Legislative Actions": [
+      "Data protection and information law reforms",
+      "Lawmaker bills and legislative proposals",
+      "Regulatory investigations and formal inquiries",
+      "Statutory guidance and legal standards"
+    ],
+    "Company and Platform Policy Changes": [
+      "Data handling and storage changes",
+      "Content policy and moderation changes",
+      "Service suspensions and product discontinuations",
+      "Corporate pledges and commitments"
+    ],
+    "Investigations, Probes, and Inquiries": [
+      "Transportation and vehicle safety probes",
+      "Parliamentary and governmental inquiries",
+      "Criminal and prosecutorial investigations",
+      "Regulatory agency investigations"
+    ],
+    "Legal Actions and Litigation": [
+      "Class-action settlements",
+      "Civil lawsuits and damages claims",
+      "Criminal prosecutions and convictions",
+      "Court orders and injunctions"
+    ],
+    "Technical Mitigations and Patches": [
+      "Software updates and over-the-air fixes",
+      "Feature disabling and manual overrides",
+      "System recalls and hardware replacements",
+      "Content and post removals"
+    ],
+    "Privacy and Data Protection Measures": [
+      "Automatic data deletion and minimization",
+      "Encryption and anonymization recommendations",
+      "User opt-outs and consent controls",
+      "Limits on data collection and sharing"
+    ],
+    "Surveillance and Spyware Responses": [
+      "Spyware detection and forensic analysis",
+      "Sanctions and trade blacklist actions",
+      "Lawsuits and legal challenges against spyware vendors",
+      "Public alerts and victim notifications"
+    ],
+    "Content Moderation and Misinformation Countermeasures": [
+      "Fact-checking and verification actions",
+      "Election integrity platform measures",
+      "Removal and reduction of harmful content",
+      "Moderation transparency and appeals"
+    ],
+    "Autonomous Systems and Vehicle Safety Measures": [
+      "Fleet groundings and operational restrictions",
+      "Driving behavior and software policy changes",
+      "Investigations and safety reporting",
+      "Physical and operational safety measures"
+    ],
+    "Facial Recognition and Biometric Governance": [
+      "Moratoria and bans on use and sales",
+      "Corporate cessation of biometric products",
+      "Court-mandated deletion and alternative verification",
+      "Oversight, guidance, and commissioner actions"
+    ],
+    "Research, Pilots, and Testing Programs": [
+      "AI pilot deployments with privacy limits",
+      "Testing and validation of detection systems",
+      "Academic and industry research publications",
+      "External evaluations and independent audits"
+    ],
+    "Internal Company Responses and Accountability": [
+      "Internal investigations and employee actions",
+      "Public apologies and communications",
+      "Employee and whistleblower disclosures",
+      "Policy changes after internal review"
+    ],
+    "Export Controls, Sanctions, and Trade Measures": [
+      "Chip export restrictions and licensing",
+      "Investment and acquisition national security interventions",
+      "Trade blacklist and entity listings",
+      "Procurement and licensing prohibitions"
+    ],
+    "Community and Civil Society Actions": [
+      "NGO campaigns and public advocacy",
+      "Freedom of information and investigative reporting",
+      "Public petitions, open letters, and mobilization",
+      "Support services and legal aid for victims"
+    ],
+    "Cancellation and Pause of Automated Systems": [
+      "Cancellation of automated decision systems",
+      "Pauses, moratoria, and service suspensions",
+      "Withdrawal of AI products or features",
+      "System decommissioning and shutdowns"
+    ]
+  },
+  {
+    "Legal actions & Litigation": [
+      "Civil lawsuits against tech companies",
+      "Class-action and multi-state settlements",
+      "Criminal charges and prosecutions",
+      "Intellectual property, trade-secret and trademark suits"
+    ],
+    "Investigations & Regulatory Probes": [
+      "Government safety and consumer-protection probes (eg NHTSA, FDA, SEC, DOJ)",
+      "Parliamentary and committee inquiries",
+      "Data protection authority and privacy investigations"
+    ],
+    "Government restrictions & Bans": [
+      "App and device bans on government/official devices (eg TikTok)",
+      "Export controls, blacklists and procurement restrictions",
+      "Restrictions on installation or use of foreign-made surveillance equipment"
+    ],
+    "Surveillance & Spyware Incidents": [
+      "State/mercenary spyware infections and attribution (eg Pegasus)",
+      "Commercial spyware companies, sales and corporate fallout",
+      "Government use of biometric and mass-surveillance systems"
+    ],
+    "Deepfakes & Synthetic Media Responses": [
+      "Legislative measures targeting non-consensual and political deepfakes",
+      "Platform takedowns, labeling and transparency for synthetic media",
+      "Industry safeguards and provider commitments for voice/image cloning"
+    ],
+    "Platform Moderation & Content Governance": [
+      "Content removal, policy updates and moderation capacity",
+      "Transparency reporting and researcher/data access initiatives",
+      "Trust & safety staffing, oversight bodies, and monitoring practices"
+    ],
+    "Technical Security Research & Mitigations": [
+      "Hardware and firmware integrity measures (attestation, signed updates)",
+      "Zero Trust, confidential computing and hypervisor isolation work",
+      "Supply-chain mitigations (chip authentication, logic locking) "
+    ],
+    "UAV / Drone Security & Countermeasures": [
+      "Secure swarm and UAV communication architectures",
+      "Counter-drone systems, jamming and kinetic/entangling solutions",
+      "Operational resilience: reconfiguration, routing and detection"
+    ],
+    "Autonomous Systems & Robotics Policy": [
+      "Policy and oversight for weaponisation and lethal use of robots",
+      "Law-enforcement rules and municipal approvals for robot use",
+      "Industry statements and coalitions opposing arming robots"
+    ],
+    "Autonomous Vehicles Safety & Responses": [
+      "Recalls, software updates and fleet decommissioning",
+      "Regulatory safety investigations and local operational limits",
+      "Corporate program pauses, shutdowns and project reassessments"
+    ],
+    "Data Privacy & Protection Measures": [
+      "Standards, certifications and legal limits for biometric/face data",
+      "Corporate data-handling changes, opt-outs and storage practices",
+      "Privacy-preserving technical measures and user tools"
+    ],
+    "Academic & Education Responses to AI": [
+      "Institutional bans and classroom/device restrictions on AI tools",
+      "Academic-publishing and conference policies on AI-generated text",
+      "Assessment reforms and disciplinary actions for AI-enabled cheating"
+    ],
+    "Child Protection & CSAM Countermeasures": [
+      "Platform takedowns, reporting, and moderation for child sexual abuse material",
+      "Law enforcement operations, arrests and prosecutions",
+      "Cross-platform coordination and third-party reporting mechanisms"
+    ],
+    "Industry Practices & Model/Data Governance": [
+      "Model access restrictions, watermarking and marking generated outputs",
+      "Licensing, dataset opt-outs and agreements with content owners",
+      "Detection tools and internal safeguards to prevent misuse"
+    ],
+    "Public Awareness, Guidance & Cybersecurity Advisories": [
+      "Consumer advisories on scams, phishing and fraud prevention",
+      "Public education, literacy campaigns and reporting apps",
+      "Security-researcher guidance and recommended defensive practices"
+    ]
+  },
+  {
+    "Investigations and enforcement": [
+      "Preliminary investigations and probes",
+      "Criminal prosecutions and arrests",
+      "Internal disciplinary investigations",
+      "Regulatory investigations and subpoenas",
+      "Sanctions, fines and penalties"
+    ],
+    "Regulatory bans, restrictions and legislation": [
+      "Government device and workplace bans",
+      "Temporary or permanent service/tool bans",
+      "Legislative proposals and national frameworks",
+      "Export controls and trade blacklist actions"
+    ],
+    "Content moderation, removal and platform policy": [
+      "Content removal, takedowns and suspensions",
+      "Policy changes restricting content types",
+      "Age verification and child-protection measures",
+      "Moderation program changes and human moderator support",
+      "Community labeling, notes and contextual tags"
+    ],
+    "Technical mitigations, patches and security updates": [
+      "Over-the-air (OTA) software updates and patches",
+      "Hardware fixes and product recalls",
+      "Algorithm and perception model improvements",
+      "Vulnerability fixes and security bug patches"
+    ],
+    "Audits, oversight, standards and governance": [
+      "External and independent audits",
+      "Regulatory oversight and compliance requirements",
+      "Standards, certification and industry guidance",
+      "Mandatory reporting and auditability of models"
+    ],
+    "Detection, provenance and forensic tools": [
+      "Deepfake and synthetic media detection research",
+      "Watermarking and content provenance standards",
+      "Phishing, spam and AI-powered fraud detection systems",
+      "Biometric system safeguards and anti-spoofing"
+    ],
+    "Incident response and remediation": [
+      "Service suspension or product takedown",
+      "Content/account removal and emergency responses",
+      "User compensation, appeals and refunds",
+      "Data deletion, rectification and remediation orders",
+      "Cease-and-desist and emergency regulatory actions"
+    ],
+    "Public communications, warnings and disclosures": [
+      "Official statements, clarifications and apologies",
+      "Mandatory user notices and signage",
+      "Public alerts and information bulletins",
+      "Press disclosures and cooperation with media"
+    ],
+    "User guidance, training and awareness": [
+      "Security hygiene and password guidance",
+      "Caller verification and anti-phishing practices",
+      "Guidance on spotting deepfakes and synthetic media",
+      "Employee training, upskilling and reskilling programs"
+    ],
+    "Platform and company operational changes": [
+      "Internal bans and restricted employee use",
+      "Leadership changes and personnel actions",
+      "Program suspensions, feature removals and deprecations",
+      "Hiring freezes, restructuring and workforce reductions"
+    ],
+    "Research, safety deployments and open releases": [
+      "AI safety research and model evaluations",
+      "Operational safety deployments (medical, grid, space weather)",
+      "Open-source releases and research tools",
+      "Pilot projects and controlled field deployments"
+    ],
+    "Collaborations and multilateral initiatives": [
+      "Government–industry cooperation and task forces",
+      "International coalitions, open letters and petitions",
+      "Multilateral regulatory and standards initiatives",
+      "Cross-sector partnerships for mitigation"
+    ],
+    "Privacy, data protection and consent measures": [
+      "Data storage, localization and access controls",
+      "Data deletion, anonymization and retention limits",
+      "Consent, COPPA and child-data protections",
+      "Data-breach notification and reporting actions"
+    ],
+    "Legal actions and litigation outcomes": [
+      "Class actions and mass civil suits",
+      "Individual lawsuits, claims and damages",
+      "Court orders, discovery and judicial rulings",
+      "Settlements, fines and mandated remedies"
+    ],
+    "Operational safety and deployment constraints": [
+      "Supervised testing, safety drivers and limited rollouts",
+      "Operational rules, usage restrictions and invites-only",
+      "Monitoring, emergency procedures and incident protocols",
+      "Deployment gating (pass/fail testing before fielding)"
+    ]
+  },
+  {
+    "Legal actions & litigation": [
+      "Defamation and fabricated-content lawsuits",
+      "Copyright and training-data lawsuits",
+      "Privacy and biometric lawsuits and settlements",
+      "Class-action suits and consumer settlements",
+      "Criminal prosecutions and convictions"
+    ],
+    "Governmental & regulatory measures": [
+      "National bans and access restrictions",
+      "Legislation and policy proposals",
+      "Export controls and national security measures",
+      "Regulatory investigations and oversight",
+      "Government guidance and standards"
+    ],
+    "Platform & corporate responses": [
+      "Policy updates and content moderation",
+      "Product changes, patches and security fixes",
+      "Data handling and privacy commitments",
+      "Advertising and commercial responses",
+      "Transparency, audits and disclosures"
+    ],
+    "Product safety, recalls & transportation incidents": [
+      "Autonomous vehicle incidents, probes and recalls",
+      "Consumer product recalls and safety updates",
+      "Safety mitigations and operational deployments"
+    ],
+    "Deepfake & synthetic media mitigations": [
+      "Content takedowns and removal requests",
+      "Actor, creator consent and objections",
+      "Detection, watermarking and provenance tools",
+      "Verification methods and law-enforcement guidance"
+    ],
+    "Labor, unions & industry agreements on AI": [
+      "Strikes, union demands and collective action",
+      "Studio and producer agreements and concessions",
+      "Workforce transition, training and protections"
+    ],
+    "Privacy, data protection & biometric scrutiny": [
+      "Data protection authority investigations",
+      "Regulatory fines and enforcement actions",
+      "Operational suspensions and service pauses",
+      "Information requests and compliance demands"
+    ],
+    "Research, studies & academic findings": [
+      "Security research and misuse assessments",
+      "Bias, fairness and performance studies",
+      "Detection, user studies and evaluation research"
+    ],
+    "Public awareness, guidance & training": [
+      "Cybersecurity hygiene guidance",
+      "Deepfake and identity-verification advice",
+      "Public lectures, campaigns and awareness events",
+      "Reporting channels, hotlines and victim guidance"
+    ],
+    "Surveillance technology oversight & controversies": [
+      "Spyware and covert surveillance investigations",
+      "Facial recognition use, challenges and bans",
+      "Predictive policing and law-enforcement tool critiques"
+    ],
+    "Military & national security applications": [
+      "Defense procurement, testing and contracts",
+      "Autonomous weapons and unmanned systems",
+      "Allied exercises and critical-infrastructure protection"
+    ],
+    "Educational & institutional AI policies": [
+      "University and exam bans or course rules",
+      "School district policies and content reviews",
+      "Use of machine translation and human review practices"
+    ],
+    "Consumer protection & fraud mitigations": [
+      "Scam detection, reporting and platform measures",
+      "Investigations into fraud networks and victim remedies",
+      "Platform takedowns of fraudulent or influence content"
+    ]
+  },
+  {
+    "Law enforcement and criminal proceedings": [
+      "Investigations and inquiries",
+      "Arrests, detentions and custody",
+      "Searches, seizures and warrants",
+      "Filing reports and formal complaints (FIRs, aangifte, etc.)",
+      "Trials, convictions and sentencing"
+    ],
+    "Civil litigation and legal actions": [
+      "Copyright, IP and content training lawsuits",
+      "Class-action and consumer suits",
+      "Defamation, cease-and-desist and injunctions",
+      "Defense motions, appeals and requests for new trials",
+      "Employment, contract and union-related litigation"
+    ],
+    "Platform content moderation and enforcement": [
+      "Content removal, labeling and takedowns",
+      "Account, network and campaign takedowns",
+      "Hashtag/search blocking and demotions",
+      "Automated content filters and thresholds",
+      "Temporary suspensions and feature disablements"
+    ],
+    "Technical fixes, patches and product changes": [
+      "Software updates and security patches",
+      "Feature disablement, pausing or shutdown",
+      "Model safety tuning, guardrails and reconfiguration",
+      "Product recalls, repairs and hardware fixes",
+      "Blocking or modifying specific prompt/term handling"
+    ],
+    "Internal reviews, audits and corporate responses": [
+      "Internal inquiries and staff actions (suspensions, resignations)",
+      "Company-led incident reviews and process changes",
+      "Independent or third-party audits and investigations",
+      "Public apologies, statements and corporate commitments"
+    ],
+    "Government policy, regulation and multilateral action": [
+      "New legislation, bills and criminal penalties",
+      "Regulatory investigations and enforcement orders",
+      "Government advisories, directives and official guidance",
+      "International summits, multilateral warnings and resolutions"
+    ],
+    "Forensic analysis, detection and attribution": [
+      "Deepfake and synthetic media forensic analysis",
+      "AI-origin detection tools and classifiers",
+      "Attribution to actors (state-linked, coordinated networks)",
+      "Open-source sharing of forensic methods and findings"
+    ],
+    "Security incident response and cyber mitigations": [
+      "CSIRT and incident response actions",
+      "Credential/token revocation and secrets management",
+      "Vulnerability disclosure, patching and coordinated response",
+      "Defensive AI and cybersecurity exercises/competitions"
+    ],
+    "Privacy, consent and identity controls": [
+      "Biometric consent collection, opt-in and withdrawal processes",
+      "Identity verification alternatives and standards",
+      "Data minimization, deletion and handling commitments",
+      "Policies limiting use of facial recognition or liveness checks"
+    ],
+    "Victim remediation, support and remedies": [
+      "Compensation claims and legal remedies",
+      "Removal/takedown assistance and content restoration",
+      "Refunds, reimbursements and customer remediation",
+      "Provision of legal representation and advocacy support"
+    ],
+    "Public warnings, user guidance and education": [
+      "Fraud, phishing and deepfake avoidance guidance",
+      "Health and medical information verification advice",
+      "Child safety, parental controls and family guidance",
+      "Reporting channels and steps to contact authorities or banks"
+    ],
+    "Transparency, reporting and cooperation with authorities": [
+      "Transparency reports and public disclosures",
+      "Cooperation with law enforcement and information sharing",
+      "Notifying affected users and publishing findings",
+      "Requests for clarification or data under legal frameworks"
+    ],
+    "Research, testing and defensive deployments of AI": [
+      "Research into AI risks, hallucinations and safety mitigations",
+      "AI deployments for conservation, wildlife and environmental monitoring",
+      "AI systems for transportation safety and collision avoidance",
+      "Pilot programs for detection (wildfire, deforestation, intrusion)"
+    ],
+    "Standards, certification and industry governance": [
+      "Certification schemes and common-criteria initiatives",
+      "Industry standards, contract clauses and union protections",
+      "Watermarking, provenance and labelling requirements",
+      "Guidelines for ethical and transparent AI governance"
+    ],
+    "Advocacy, campaigns and public awareness initiatives": [
+      "NGO campaigns and civil-society calls for bans or moratoria",
+      "Public awareness, media literacy and education campaigns",
+      "Calls for parliamentary or democratic scrutiny and debate",
+      "Grassroots and professional organizing (actors, voice-owners)"
+    ]
+  },
+  {
+    "Legal actions and litigation": [
+      "Copyright and authorship lawsuits",
+      "Biometric/privacy and data-protection lawsuits and fines",
+      "Class actions and mass settlements",
+      "Criminal prosecutions and indictments",
+      "Injunctions, court orders, and sanctions"
+    ],
+    "Law enforcement investigations and arrests": [
+      "Police case openings, FIRs and inquiries",
+      "Arrests, detentions and suspect processing",
+      "Forensic analysis and evidence reporting",
+      "Cross-jurisdictional referrals and prosecutions"
+    ],
+    "Platform content policy and moderation": [
+      "Content takedowns and removals",
+      "Account sanctions (bans, suspensions, mutes)",
+      "Policy updates and enforcement announcements",
+      "Enforcement metrics and transparency reporting",
+      "Cooperation with authorities for enforcement"
+    ],
+    "Legislation, regulation and government policy": [
+      "National laws criminalizing deepfakes/AI misuse",
+      "Executive orders and national AI safety strategies",
+      "Regulatory investigations, oversight and agency actions",
+      "International agreements and treaty initiatives",
+      "Pending or proposed legislative frameworks"
+    ],
+    "Data use, training datasets and licensing": [
+      "Training-data disputes and lawsuits",
+      "Dataset removal, safety review and republishing",
+      "Licensing agreements and publisher compensation",
+      "Publisher/platform opt-outs and access controls"
+    ],
+    "Technical mitigation, detection and safeguards": [
+      "Watermarking, labeling and provenance tools",
+      "Automated detection and monitoring systems",
+      "Model updates, filters and safe-by-design fixes",
+      "Anti-scraping and dataset-poisoning defenses"
+    ],
+    "Corporate governance, commitments and internal policy": [
+      "Internal usage rules and employee guidance",
+      "Company public commitments and transparency measures",
+      "Leadership, board and structural changes",
+      "Vendor/provider interoperability and instructions"
+    ],
+    "Public awareness, education and victim support": [
+      "Public advisories, warnings and official guidance",
+      "Victim reporting, removal requests and support resources",
+      "Public education and digital literacy campaigns"
+    ],
+    "Election integrity and political-ad safeguards": [
+      "Political-ad disclosure and registration requirements",
+      "Election-period deepfake bans and timing restrictions",
+      "Government/agency coordination on election threats"
+    ],
+    "Autonomous systems and product safety oversight": [
+      "Vehicle/robot recalls and mandated software updates",
+      "Regulatory probes, recall mandates and reporting rules",
+      "Operational restrictions, testing suspensions and corporate remedies"
+    ],
+    "Biometrics, surveillance and facial-recognition governance": [
+      "Deployments, tenders and operational rollouts",
+      "Data-protection authority reviews and formal warnings",
+      "Public and legislative bans or usage restrictions",
+      "Bodycams and operational recording policies"
+    ],
+    "Child safety and CSAM prevention": [
+      "Platform CSAM detection, removal and specialist teams",
+      "Regulatory settlements and mandated data deletions",
+      "Child-safety advocacy, partnerships and education"
+    ],
+    "Fraud, scams and financial-crime countermeasures": [
+      "Large-scale law enforcement anti-fraud operations",
+      "Public fraud-prevention advisories and tips",
+      "Platform and service takedowns targeting scam ads"
+    ],
+    "Research, auditing and tool development": [
+      "Academic and clinical studies on AI impacts",
+      "Tools to test, audit or benchmark models",
+      "Joint research collaborations and published reports"
+    ],
+    "Creators', workers' rights and industry pushback": [
+      "Creator petitions and collective actions",
+      "Labor and professional campaigns for protections",
+      "Industry demands for compensation and transparency"
+    ]
+  },
+  {
+    "Legal and Regulatory Actions": [
+      "Legislation and statutory measures",
+      "Regulatory enforcement, fines and administrative orders",
+      "Judicial proceedings, civil litigation and court rulings",
+      "Government policy directives and executive orders"
+    ],
+    "Platform Policies and Content Moderation": [
+      "Content removal, blocking and account enforcement",
+      "Labeling, watermarking and provenance requirements",
+      "Default safety settings and parental controls",
+      "Moderation technology and spam/review policies"
+    ],
+    "Law Enforcement and Security Operations": [
+      "Police investigations, search warrants and arrests",
+      "Inter-agency coordination, task forces and information sharing",
+      "Cybercrime takedowns and attribution of malicious actors"
+    ],
+    "Detection, Authentication and Technical Countermeasures": [
+      "Deepfake and manipulated-media detection tools",
+      "Biometric/liveness detection and anti-spoofing technologies",
+      "Content provenance, certificates and authenticity tooling",
+      "Military and physical countermeasures (anti-drone, jammers, interceptors)"
+    ],
+    "Company Actions, Apologies and Commitments": [
+      "Public apologies and leadership statements",
+      "Product pauses, feature changes and safety guardrails",
+      "Internal investigations, reports and corrective actions",
+      "Corporate pledges, opt-outs and compliance commitments"
+    ],
+    "Industry Agreements and Voluntary Pledges": [
+      "Multi-company pacts to counter disinformation and election harms",
+      "Cross-industry standard-setting and best-practice sharing"
+    ],
+    "Privacy, Data Protection and Biometric Oversight": [
+      "Privacy commission inquiries and oversight of data collection",
+      "Facial recognition trials, bans, moratoria and audits",
+      "Data collection restrictions, opt-outs and deletion commitments"
+    ],
+    "Education, Awareness and Guidance": [
+      "Public awareness campaigns and educational content for children",
+      "Expert media-literacy advice and journalistic best practices",
+      "Parental guidance materials and school guidance"
+    ],
+    "Research, Disclosure and Responsible Research Practices": [
+      "Safety studies, risk assessments and controlled experiments",
+      "Vulnerability disclosure and coordinated remediation",
+      "Research methodologies, follow-up investigations and peer review"
+    ],
+    "Consumer Protection, Fraud Prevention and Anti-Scam Measures": [
+      "AI-enabled anti-fraud platforms and detection systems",
+      "International coordination and law-enforcement fusion efforts",
+      "Consumer warnings and procedural advice to avoid scams"
+    ],
+    "Incident Response, Remediation and Recalls": [
+      "Software updates, patches and voluntary recalls",
+      "User notifications, account remediation and mitigations",
+      "Forensic investigations, regulatory reporting and follow-ups"
+    ],
+    "Academic and Institutional AI Policies": [
+      "University exam, remote assessment and proctoring policies",
+      "Academic integrity enforcement and disciplinary processes",
+      "Organizational bans, restrictions and pledges on generative AI"
+    ],
+    "Media Corrections, Verification and Investigations": [
+      "Journalistic investigations and post-publication corrections",
+      "Fact-checking, provenance research and source verification",
+      "Newsroom actions to withdraw or amend manipulated imagery"
+    ],
+    "User-level Practical Guidance and Tools": [
+      "Browser, access and troubleshooting instructions",
+      "Personal privacy and safety steps (reverse image search, do not share sensitive data)",
+      "How and where to report abuse, fraud or manipulated content"
+    ],
+    "Election Integrity and Disinformation Response": [
+      "War games, simulations and government preparedness exercises",
+      "Election-specific legislation, rules and campaign restrictions",
+      "Rapid-response coalitions and networks to detect and counter deepfakes"
+    ]
+  },
+  {
+    "Deepfake and Manipulated Media Detection Tools": [
+      "Machine-learning video and audio inconsistency detectors",
+      "Physiological-signal and blood-flow based detectors",
+      "Audio and voice-clone detection tools",
+      "Forensic expert analysis and evidence presentation",
+      "Anti-manipulation flagging software (e.g., TalkLock)"
+    ],
+    "Platform Content Policies and Moderation Actions": [
+      "Automatic removal and restriction of content (ads, posts, live streams)",
+      "Account suspensions, reinstatements, and appeals",
+      "Policy updates on AI-generated content and community guidelines",
+      "Decommissioning or replacement of moderation tools"
+    ],
+    "Legal and Regulatory Responses": [
+      "Deepfake-specific election and campaign laws and bans",
+      "Criminalization of non-consensual and sexually explicit deepfakes",
+      "Export controls and Entity List trade restrictions",
+      "Proposed federal/state legislation and consultations on AI"
+    ],
+    "Law Enforcement Investigations and Arrests": [
+      "Police investigations, raids, evidence seizure, and technical analysis",
+      "Arrests, charges, and prosecutions linked to AI misuse",
+      "Requests to platforms for takedown and account access during probes"
+    ],
+    "Corporate Technical Safeguards and Product Controls": [
+      "Release restrictions, limited rollouts, and feature delays",
+      "Safety features to reduce hallucinations and incorrect outputs",
+      "Authentication and access-control commitments for tools",
+      "Deletion of project files/code after incidents"
+    ],
+    "Industry Standards, Collaboration and Research Disclosure": [
+      "Adoption of provenance and authenticity standards",
+      "Public disclosure and sharing of research to fix vulnerabilities",
+      "Cross-industry campaigns, pledges, and coordinated mitigation efforts"
+    ],
+    "Public Awareness, Education and Training Initiatives": [
+      "Public service videos, PSAs and practical detection advice",
+      "Organized employee training, phishing tests and zero-trust education",
+      "Community forums, voter-awareness campaigns and local outreach"
+    ],
+    "Platform Transparency, Data Handling and Reviewer Practices": [
+      "Disclosures about human reviewers and data-usage (privacy hubs)",
+      "Platform transparency reports and public statements on moderation",
+      "Formal cooperation processes between authorities and platforms"
+    ],
+    "Litigation and Civil Actions Against Platforms and Individuals": [
+      "Class actions and consolidated lawsuits targeting platforms",
+      "Individual and family lawsuits seeking compensation or injunctions",
+      "Copyright and training-data related litigation"
+    ],
+    "Content Labeling and Provenance Measures": [
+      "Visible labels indicating AI-generated or 'Made with AI' content",
+      "Machine-readable watermarks and traceable provenance",
+      "Mandatory disclaimers on AI-generated campaign and political content"
+    ],
+    "Biometric Data and Privacy Oversight": [
+      "Regulatory inquiries into biometric collection, storage, and consent",
+      "Settlements and fines related to tracking and location data",
+      "Data protection authority reports, questions, and parliamentary reviews"
+    ],
+    "Child Safety and Online Sexual Exploitation Mitigations": [
+      "Tracking, categorization and referral of AI-generated child sexual content",
+      "School investigations, expulsions and notifications related to AI nudes",
+      "Legal clarifications extending child-pornography laws to AI images"
+    ],
+    "Election Integrity and Political Content Controls": [
+      "Election commission advisories, monitoring and rapid response SOPs",
+      "Simulated exercises, war games, and coordinated rapid-response networks",
+      "State legislative action and bans timed around elections"
+    ],
+    "Creative Rights, Labor and Compensation Protections": [
+      "Unions' demands for safeguards on voice, likeness and performance rights",
+      "Collective bargaining and industry negotiation to protect actors and creators",
+      "Calls for protections of journalists and creative workers in AI legislation"
+    ],
+    "Cybersecurity Vulnerabilities, Patches and Incident Response": [
+      "Vulnerability discovery, CVE fixes and vendor patching",
+      "Security incident disclosure, threat intelligence and collaboration",
+      "Incident response actions by vendors (investigations, repayments, remediation)"
+    ]
+  },
+  {
+    "Public communications & advisories": [
+      "Denials, clarifications and corporate statements",
+      "Public warnings and safety advisories",
+      "Requests to verify official channels and sources",
+      "Requests to ignore or not share suspected AI content"
+    ],
+    "Investigations, audits & probes": [
+      "Regulatory and agency investigations",
+      "Law enforcement and criminal probes",
+      "Data protection audits and supervisory inquiries",
+      "Internal company investigations and incident reviews"
+    ],
+    "Legal actions, enforcement & policy-making": [
+      "Lawsuits and civil litigation",
+      "Criminal charges, FIRs and prosecutions",
+      "Fines, sanctions and license revocations",
+      "Legislation, bills and regulatory proposals"
+    ],
+    "Platform moderation, takedowns & content policy": [
+      "Account removals and takedowns",
+      "Content labeling and disclosure requirements",
+      "Platform policy updates, bans and restrictions",
+      "Automated moderation and enforcement tools"
+    ],
+    "Technical security, incident response & hardening": [
+      "Logging, monitoring and detection",
+      "Access, token and key management",
+      "Forensic investigation and external specialists",
+      "Patching, feature disabling and bug fixes"
+    ],
+    "Product safety, recalls & operational mitigations": [
+      "Autonomous vehicle recalls and supervised relaunches",
+      "Operational safety procedures and validations",
+      "Hardware/product advisories and charging/use guidance",
+      "Software updates and rollbacks"
+    ],
+    "Research, detection methods & defensive tools": [
+      "Academic and empirical research on AI harms",
+      "Detection tools and forensic techniques",
+      "Defensive AI systems and 'victim' or honeypot bots",
+      "Proposed technical mitigations (watermarks, provenance)"
+    ],
+    "Law enforcement policies & technology use": [
+      "Facial recognition and biometric use policies",
+      "Search, peer-review and evidence-handling procedures",
+      "Limits on real-time surveillance and broad searches",
+      "Inter-agency operational protocols"
+    ],
+    "Consumer protection & anti-fraud measures": [
+      "Consumer advisories and education on scams",
+      "Carrier-level blocking, robocall and spam defenses",
+      "Payment and monetization disruption measures",
+      "Fraud reporting, industry guidance and takedown requests"
+    ],
+    "Data protection, privacy & consent controls": [
+      "Data deletion, storage limits and opt-out mechanisms",
+      "Regulatory suspensions and moratoria on data collection",
+      "Privacy-preserving features and access controls",
+      "Auditability, transparency and provenance requirements"
+    ],
+    "Workforce, labor, rights & creative compensation": [
+      "Worker organizing, unions and labor lawsuits",
+      "Artist/creator demands, licensing and compensation",
+      "Layoffs, restructuring and employee communications",
+      "Protections for gig/contract moderation workers"
+    ],
+    "National security, export controls & geopolitical measures": [
+      "Export controls and technology licensing rules",
+      "Intelligence monitoring and foreign-adversary warnings",
+      "Strategic procurement and restrictions to mitigate risk",
+      "Intergovernmental negotiations and allied coordination"
+    ],
+    "Education, awareness & capacity building": [
+      "School and curriculum guidance about algorithmic risks",
+      "Public awareness campaigns and trainings",
+      "Conferences, expert briefings and commissioned studies",
+      "Guidance for exam integrity and anti-cheating measures"
+    ],
+    "Infrastructure, energy & operational resilience": [
+      "Data center investments and capacity planning",
+      "Energy sourcing, storage and grid planning",
+      "Pragmatic fuel mix and backup power measures",
+      "Facility siting, local partnerships and permitting"
+    ],
+    "Industry coordination, voluntary pacts & commercial controls": [
+      "Voluntary commitments and cross-industry pledges",
+      "Licensing deals, content agreements and supplier terms",
+      "Platform-business cooperation (MOUs, info-sharing)",
+      "Commercial restrictions on sales or customer classes"
+    ]
+  },
+  {
+    "Criminal law enforcement actions": [
+      "Arrests & criminal charges",
+      "Investigations, raids & evidence collection",
+      "Seizures, domain takedowns & asset recovery",
+      "Juvenile cases & youth-specific prosecutions"
+    ],
+    "Regulatory investigations & enforcement": [
+      "Antitrust, pricing & market probes",
+      "Consumer protection inquiries (FTC and equivalents)",
+      "Export controls, national security reviews & sanctions",
+      "Platform regulatory probes, fines & compliance mandates"
+    ],
+    "Civil litigation & court orders": [
+      "Copyright, plagiarism & training-data lawsuits",
+      "Class actions, consumer suits & injunction requests",
+      "Defamation, individual civil claims & damages",
+      "Court orders, takedown mandates & disclosure orders"
+    ],
+    "Platform moderation & content takedowns": [
+      "Automated detection systems & proactive removals",
+      "User reporting tools & takedown workflows",
+      "Policy enforcement, moderation processes & workforce",
+      "Transparency measures & moderation disclosures"
+    ],
+    "Deepfakes, impersonation & non-consensual content mitigation": [
+      "Deepfake detection, forensic analysis & verification",
+      "Platform-specific deepfake responses & feature limits",
+      "Victim support, evidence collection & legal recourse",
+      "Public debunking, fact-checking & coordinated responses"
+    ],
+    "Technical model safety & access controls": [
+      "Feature restrictions, limited releases & access controls",
+      "Safety testing, red‑teaming & bug‑bounty programs",
+      "Model-specific mitigations (voice/biometric protections)",
+      "Insider-threat controls, DLP & model weight safeguarding"
+    ],
+    "Cybersecurity measures & vulnerability management": [
+      "Vulnerability disclosure, patches & CVE responses",
+      "Identity protection, MFA & credential hardening",
+      "Enterprise security investments & incident response",
+      "Anomaly detection, real‑time monitoring & defenses"
+    ],
+    "Research, detection tools & academic studies": [
+      "Academic studies on deception, model behavior & collapse",
+      "Tooling & automated detection services (Sensity, NewsGuard, etc.)",
+      "Empirical experiments on human vs AI detection",
+      "Analyses of bot/automated content influence and metrics"
+    ],
+    "User & public advisories, guidance & education": [
+      "Personal scam-avoidance and transaction verification tips",
+      "Parental guidance, child safety education & supervision",
+      "Institutional advisories (banks, schools, public agencies)",
+      "Public awareness campaigns & platform user notices"
+    ],
+    "Data protection, privacy & consent controls": [
+      "Data-protection authority investigations & rulings",
+      "DPIAs, privacy assessments & organizational controls",
+      "User opt-outs, consent mechanisms & transparency toggles",
+      "Restrictions on data collection, storage & processing"
+    ],
+    "Corporate policies, governance & workforce responses": [
+      "Company AI-use policies, feature rollbacks & product decisions",
+      "Editorial standards, quality control & content provenance processes",
+      "Labor, unions & collective bargaining over AI protections",
+      "Corporate apologies, internal reviews & governance changes"
+    ],
+    "Training data, dataset handling & provenance": [
+      "Dataset takedowns, provenance tracking & access logs",
+      "Publisher demands, cease-and-desist and licensing disputes",
+      "Platform crawlers, scraping allegations & bot/crawler blocking",
+      "Transparency about datasets used for model training"
+    ],
+    "Child sexual abuse material (CSAM) prevention & prosecution": [
+      "Hash-based detection, reporting to NCMEC & platform reporting",
+      "Legislation criminalizing AI‑generated CSAM and related laws",
+      "Law enforcement prosecutions and coordinated operations",
+      "Platform operational obligations and reporting compliance"
+    ],
+    "Autonomous & transport AI incidents & responses": [
+      "Robotaxi/driverless vehicle crashes, recalls & investigations",
+      "Operational suspensions, testing restrictions & regulatory reviews",
+      "Remote monitoring, emergency-stop protocols & safety demos",
+      "Autonomous system policy changes, reporting & safety metrics"
+    ],
+    "National security, surveillance & spyware governance": [
+      "Spyware investigations, prosecutions & related oversight",
+      "State sanctions, asset freezes, visa restrictions & bans",
+      "Regulation of surveillance tools, court approvals & safeguards",
+      "Export controls, entity listings & cross-border technology rules"
+    ]
+  },
+  {
+    "Legal actions & litigation": [
+      "Platform and algorithm lawsuits (TikTok, Meta, social platforms)",
+      "Deepfake and likeness lawsuits (actors, public figures, voice actors)",
+      "Copyright and intellectual property suits (news orgs, music rights, publishers)",
+      "Consumer and class-action suits (state attorneys general, parents, users)",
+      "Employment and labor actions (SAG-AFTRA, strikes, NLRB complaints)"
+    ],
+    "Government investigations & regulatory actions": [
+      "Regulatory investigations into AI products and safety (NHTSA, investigations of autonomous systems)",
+      "Data protection authority investigations and administrative processes (CNIL, INAI, UODO, ANPD)",
+      "Legislative proposals and enacted laws addressing AI/deepfakes/election regulation",
+      "Export controls, sanctions, and trade restrictions related to AI hardware/software"
+    ],
+    "Platform & company policy changes and responses": [
+      "Platform policy updates, content rules, and ad/election ad restrictions",
+      "Privacy, terms-of-service, and data-use disclosures (training data opt-outs, updated TOS)",
+      "Product safety measures, feature rollbacks, and manual overrides (chatbot, assistant fixes)",
+      "Partnerships and agreements for content removal or safety (StopNCII, news partnerships)"
+    ],
+    "Law enforcement operations & prosecutions": [
+      "Arrests, prosecutions, and indictments for AI-enabled fraud/deepfake crimes",
+      "Police inquiries and cross-agency investigations into scams and impersonation",
+      "Border enforcement and deportation operations using biometric/surveillance tech"
+    ],
+    "Research findings & technical vulnerability disclosures": [
+      "Sensor and vehicle perception vulnerabilities (radar masking, AV sensor attacks)",
+      "Studies on AI hallucinations, medical chatbot safety, and model limitations",
+      "Research on social media manipulation, bot networks, and LLM-generated content",
+      "Voice-cloning, biometric spoofing, and deepfake capability demonstrations"
+    ],
+    "Security measures & technical mitigations": [
+      "Fraud-detection systems and bank/financial safeguards (reimbursement rules, real-time scoring)",
+      "AI-based detection tools and open-source defensive projects (ContextGen, SR-Scientist, vendor updates)",
+      "Biometric liveness and verification best practices and vendor recommendations",
+      "Telecom and platform safety features (Safe Call, anti-spoofing collaborations)"
+    ],
+    "Content moderation, takedowns & removals": [
+      "Platform takedowns and account removals for deepfakes, nonconsensual images, and misinformation",
+      "DMCA, copyright takedowns and cease-and-desist actions against AI-generated content",
+      "Platform enforcement of nonconsensual intimate image policies and removal pipelines"
+    ],
+    "Consumer & public advisories, education and guidance": [
+      "Public warnings and safety tips about voice-cloning, robocalls, and scams",
+      "Personal security recommendations (2FA, passphrases, privacy settings, verifying sources)",
+      "Official consumer hotlines, reporting mechanisms and guidance for election day and crises"
+    ],
+    "Elections & political integrity measures": [
+      "Platform election integrity measures (ad pauses, civic policies, labeling, authoritative links)",
+      "Government and NGO monitoring, reporting, and counter-disinformation efforts",
+      "Legal and regulatory actions targeting political deepfakes, misleading ads, and election manipulation"
+    ],
+    "Autonomous vehicles & transport safety": [
+      "Legislation and regulatory frameworks for automated vehicles (operator roles, fines, data retention)",
+      "Investigations, suspensions, and enforcement actions related to AV crashes and deployments",
+      "Operational restrictions, approved areas, and testing conditions for fully automated vehicles"
+    ],
+    "Biometrics, privacy & surveillance controversies": [
+      "Worldcoin/World ID operations, bans, suspensions, and DPI/DPAs interactions",
+      "Pegasus spyware allegations, parliamentary inquiries, and state-level probes",
+      "Facial recognition deployments, public inquiries, bans, and privacy authority rulings"
+    ],
+    "Cybersecurity, fraud detection & financial protections": [
+      "Cybersecurity vendor reporting and blocking of large-scale threats (phishing, scam domains)",
+      "Banking fraud mitigation, reimbursement codes, and payment protections",
+      "Telecom anti-fraud measures and registries to block unwanted calls"
+    ],
+    "Energy, infrastructure & environmental mitigation for AI": [
+      "Clean energy and carbon removal deals to power data centers (geothermal, nuclear, carbon credits)",
+      "Data-center power management, on-site generators, and grid capacity initiatives",
+      "Efficiency innovations for AI infrastructure (liquid cooling, novel compute approaches)"
+    ],
+    "Academia, publishing & education sector responses": [
+      "University collaborations, partnership unwinding, and academic research governance",
+      "Academic and journal policies on AI-generated text detection and disclosure requirements",
+      "Educational guidance on use of AI tools in teaching, grading, and student work"
+    ],
+    "Disaster response, emergency management & humanitarian actions": [
+      "Large-scale emergency deployments and relief coordination (FEMA, Red Cross, military support)",
+      "Guidance for volunteers, donations, and public safety during disaster response",
+      "Use of digital tools and hotlines for victim support and survivor assistance"
+    ]
+  },
+  {
+    "Legal & Judicial Actions": [
+      "Lawsuits and civil claims",
+      "Court orders, mandates and judicial notices",
+      "Criminal charges, arrests and prosecutions",
+      "Fines, monetary penalties and restitution",
+      "Subpoenas, discovery requests and evidentiary motions"
+    ],
+    "Regulatory & Governmental Measures": [
+      "National bans and prohibitions",
+      "Executive orders and government directives",
+      "Data protection authority investigations and restrictions",
+      "Export controls and trade-related restrictions",
+      "Legislative amendments and regulatory rule changes"
+    ],
+    "Corporate Policy & Platform Changes": [
+      "Moderation and content policy revisions",
+      "Feature removals, opt-outs and product rollbacks",
+      "Verification and account policy changes",
+      "Algorithm and feed restructuring",
+      "Adoption of community-driven moderation models"
+    ],
+    "Content Removal, Takedowns & Labeling": [
+      "Platform takedowns and content removals",
+      "Requests to label content as AI-generated or fabricated",
+      "DMCA/copyright-related takedown actions",
+      "Removal of disputed or impersonating accounts"
+    ],
+    "Technical Mitigations & Security Fixes": [
+      "Security patches, vulnerability fixes and updates",
+      "API access revocation and service cutoffs",
+      "Rate-limiting, throttling and duplicate-request controls",
+      "Model training changes, guardrails and output restrictions",
+      "Bug fixes and software updates to address AI behavior"
+    ],
+    "AI Detection & Forensics Tools": [
+      "Development of deepfake and manipulation detection tools",
+      "Independent testing and evaluation of detection tools",
+      "Forensic analyses producing probabilistic scores",
+      "Tool reliability improvements and user guidance"
+    ],
+    "Access Restrictions & Blocking": [
+      "Organizational or corporate blocks on apps/services",
+      "Removal from app stores and marketplace delistings",
+      "IP, network or device-level blocking",
+      "Geofencing and no‑fly / warning zone configuration changes"
+    ],
+    "Investigations & Audits": [
+      "Internal corporate investigations and audits",
+      "Law enforcement and forensic investigations",
+      "Independent security and compliance audits",
+      "Seizure and forensic analysis of devices and data"
+    ],
+    "Public Warnings, Advisories & Awareness Campaigns": [
+      "Official public advisories and fraud/deepfake warnings",
+      "Guidance and practical safety tips for the public",
+      "Hotlines, reporting channels and contact information",
+      "Awareness campaigns, training sessions and outreach"
+    ],
+    "Operational & Deployment Mitigations": [
+      "Deployment of AI-triggered early-warning systems",
+      "Command-and-control centres and real-time monitoring",
+      "Use of drones, thermal cameras and physical sensors",
+      "Public alert displays and situational response measures"
+    ],
+    "Industry Collaboration & Coalitions": [
+      "Partnerships between companies and institutions",
+      "Industry coalitions for standards and best practices",
+      "Information sharing, quarterly reviews and meetings",
+      "Joint technical or investigative collaborations"
+    ],
+    "Compensation, Remediation & Support": [
+      "User refunds and reimbursement actions",
+      "Victim support, wellbeing and protective measures",
+      "Remediation and cleanup of affected data or components",
+      "Financial compensation orders and indemnities"
+    ],
+    "Organizational Changes & Personnel Actions": [
+      "Resignations, dismissals and disciplinary measures",
+      "Corporate reorganizations and team disbanding",
+      "Staff reassignment and role changes",
+      "Personnel moves to advisory or part-time roles"
+    ],
+    "Research, Surveys & Reports": [
+      "Academic and industry research studies",
+      "Surveys measuring public or expert opinions",
+      "Threat intelligence and security research reports",
+      "Published lab analyses and model evaluation reports"
+    ],
+    "Procedural & Governance Measures": [
+      "Requirements for human oversight and decision-making",
+      "Transparency, algorithmic disclosure and reporting",
+      "Training, co-governance and worker-representation rights",
+      "Data governance, impact assessments and standards"
+    ]
+  },
+  {
+    "Government bans and directives": [
+      "National app bans and countrywide prohibitions",
+      "State, regional and executive orders",
+      "Agency-level prohibitions and internal directives",
+      "Restrictions on downloads and app store availability",
+      "Public-sector approval/conditional-use procedures"
+    ],
+    "Corporate and organizational policies": [
+      "Company device and employee use bans",
+      "Internal notices, feature suspensions and product takedowns",
+      "University and research-institution AI use policies",
+      "Corporate procurement and vendor restrictions"
+    ],
+    "Regulatory and data-protection authority actions": [
+      "Requests for information and enquiries to AI providers",
+      "Temporary suspensions, prohibitions and formal orders",
+      "Fines, sanction proceedings and regulatory penalties",
+      "Implementation and enforcement of AI-specific laws (e.g., EU AI Act)"
+    ],
+    "Law enforcement and criminal investigations": [
+      "Arrests, detentions and criminal charges",
+      "Police investigations, evidence collection and forensic analysis",
+      "Seizures of infrastructure and documents",
+      "International multi-agency operations and cooperation"
+    ],
+    "Vendor incident response and remediation": [
+      "Security fixes, patches and model mitigations",
+      "Account removals, takedowns and access restrictions",
+      "Public statements, cooperation and appointing local representatives",
+      "Removal of features or temporary halts of rollouts"
+    ],
+    "Technical mitigations and detection tools": [
+      "AI-generated content detection systems",
+      "Steganographic watermarks and provenance signals",
+      "Model access controls and risk-classification (internal use/high-risk)",
+      "Security hardening and configuration changes"
+    ],
+    "User guidance and individual security advice": [
+      "General scam avoidance and suspicious-contact advice",
+      "Email and phishing-specific hygiene (validate sender, check links)",
+      "Account recovery and credential hardening (passwords, 2FA)",
+      "Post-breach actions (change passwords, monitor accounts, reporting)"
+    ],
+    "Platform moderation, reporting and content controls": [
+      "Content takedown, complaint and reporting mechanisms",
+      "Labeling, watermarking and forced disclosure of AI-generated content",
+      "Automated moderation adjustments and human-plus-machine review",
+      "Ad policing and removal of fraudulent advertisements"
+    ],
+    "Research, studies and calls for transparency": [
+      "Academic studies on AI alignment, bias and political behavior",
+      "Security research and vulnerability disclosure",
+      "Calls for interdisciplinary collaboration and regulatory safeguards",
+      "Empirical audits of tracking, profiling and targeting practices"
+    ],
+    "Legal and legislative developments": [
+      "Proposed bills targeting AI use or imports/exports",
+      "Laws criminalizing malicious AI uses (e.g., deepfake sexual content)",
+      "Litigation against AI companies (copyright, data, consumer harms)",
+      "Legislative proposals on copyright, licensing and data-mining exemptions"
+    ],
+    "Public advisories, warnings and communications": [
+      "Official advisories from national security or intelligence bodies",
+      "Warnings and guidance from agencies (e.g., FBI, CERTs, eSafety)",
+      "Public figures' denials, warnings and crisis communications",
+      "Media and platform public notices about specific incidents"
+    ],
+    "Victim support, remedies and reporting channels": [
+      "Hotlines, helplines and emotional/psychological support resources",
+      "Reporting portals and police guidance for victims",
+      "Civil remedies (defamation, privacy, image-based abuse claims)",
+      "Victim-oriented evidence collection and take-down assistance"
+    ],
+    "AI-enabled fraud, scams and misuse incidents": [
+      "Voice-cloning and deepfake impersonation scams",
+      "AI-assisted financial fraud and account takeover schemes",
+      "Image-based sexual abuse, revenge porn and manipulated intimate content",
+      "Large-scale phishing and AI-powered social-engineering campaigns"
+    ],
+    "Military, defense and national-security applications": [
+      "Operational use of AI in weapons, drones and robotic systems",
+      "Military bans, procurement rules and forbidden equipment lists",
+      "Defense-sector device/computer restrictions and network rules",
+      "Alliances, defense funding and joint industry-military initiatives"
+    ],
+    "Industry coordination, agreements and commercial responses": [
+      "Publisher and media licensing deals and content partnerships",
+      "Industry alliances, funding rounds and startup-investor activities",
+      "Collective responses (unions, creatives, sector negotiations)",
+      "Market responses such as blocking scraping and pay-for-access arrangements"
+    ]
+  },
+  {
+    "Platform moderation and content enforcement": [
+      "Account suspension and banning",
+      "Content removal and takedowns",
+      "Monetization and live-streaming revocations",
+      "Content labeling and fact-checking partnerships",
+      "Temporary feature suspensions and domain blocklists",
+      "Platform enforcement communications and reporting to authorities"
+    ],
+    "Legal and regulatory action": [
+      "New criminal laws and amendments (e.g., deepfakes, intimate images)",
+      "Regulatory frameworks, guidance, and standards",
+      "Court orders, injunctions, and judicial rulings",
+      "Fines, sanctions, and administrative penalties",
+      "Government oversight bodies, task forces, and certification schemes"
+    ],
+    "Law enforcement response and investigations": [
+      "Arrests and detentions for AI-related offences",
+      "Police investigations, forensics, and evidence preservation",
+      "Cross-border and international law enforcement cooperation",
+      "Reporting requirements and referral to prosecutors"
+    ],
+    "Corporate policy change and product responses": [
+      "Feature changes, bug fixes, and UX adjustments",
+      "Product suspensions, removals, and market withdrawals",
+      "Data-use, training-data, and API policy changes",
+      "Corporate engagement, dialogues, and public statements"
+    ],
+    "Technical security and mitigation measures": [
+      "Spam, scam and voice-phishing detection systems",
+      "Access control, encryption, and multi-factor authentication",
+      "Watermarking, metadata and provenance indicators",
+      "Model guardrails, monitoring and runtime defenses",
+      "Network- and platform-level blocking and shutdowns"
+    ],
+    "Detection, forensics and safety testing": [
+      "Deepfake and media-detection tools and analyses",
+      "Forensic laboratory analyses and verification methods",
+      "Red-teaming, jailbreaking research and vulnerability testing",
+      "Academic and industry safety evaluation reports"
+    ],
+    "User protection and fraud prevention": [
+      "Banking and financial fraud prevention measures",
+      "Telecom and SMS/voice protections and caller controls",
+      "Privacy-preserving user features (alias email, invisible modes)",
+      "Public advisories and consumer alerts about scams"
+    ],
+    "Identity verification and provenance controls": [
+      "Document and ID verification and tamper detection",
+      "Facial biometric authentication and anti-impersonation",
+      "Human-only certification and anti-automation provenance",
+      "Account identity checks and evidence retention for suspicious accounts"
+    ],
+    "Public awareness, education and training": [
+      "Training programs for teachers, parents, students and officials",
+      "Public outreach and parent/community engagement meetings",
+      "Media literacy, expert guidance and fact-check campaigns",
+      "Awareness campaigns, hotlines and reporting channels"
+    ],
+    "Industry agreements, labour protections and employment measures": [
+      "Union negotiations, strikes and interim agreements (AI protections)",
+      "Employment policy changes, recruitment rules and bans on AI use",
+      "Severance, compensation and support for affected workers"
+    ],
+    "Government-platform engagement and operational cooperation": [
+      "Government requests, dialogues and platform commitments",
+      "Election and civic-disinformation cooperation and monitoring",
+      "Platform data requests and transparency of communications"
+    ],
+    "Export controls, national security and market restrictions": [
+      "Chip export controls and technology-sale restrictions",
+      "Government bans and prohibitions on foreign AI tools for agencies",
+      "Investigations into illicit tech procurement and compliance risks"
+    ],
+    "Victim support and remediation": [
+      "Counselling and victim services for AI-enabled abuse",
+      "Assistance with content deletion and takedown support",
+      "Legal representation, police reporting and restorative remedies"
+    ],
+    "Deployment and operational adjustments": [
+      "Safety updates, recalls and probes for autonomous systems",
+      "Modifications, procurement and scaling of unmanned systems",
+      "Operational deployment of AI in policing and security (trials)",
+      "Training centers, frontline workshops and operational feedback loops"
+    ],
+    "Litigation and legal challenges against AI companies": [
+      "Copyright and data-use lawsuits (news, books, art)",
+      "Privacy and data-protection complaints and regulatory filings",
+      "Class actions, settlements and contested proposed deals"
+    ]
+  },
+  {
+    "Law enforcement actions & investigations": [
+      "Police notices & summonses",
+      "Criminal investigations & raids",
+      "Arrests, charges & prosecutions",
+      "Evidence collection & forensic analysis",
+      "International law-enforcement cooperation"
+    ],
+    "Platform Moderation & Enforcement": [
+      "Account suspensions & bans",
+      "Content removal & labeling",
+      "Ad blocking & advertiser sanctions",
+      "Publisher/site sanctions & policy violations",
+      "Enforcement campaigns & takedown operations"
+    ],
+    "Advertising & Political Content Transparency": [
+      "Political ad verification & disclosure requirements",
+      "Electoral ad removal & advertiser verification expansions",
+      "Political ad transparency reporting",
+      "Ad policy updates for political content"
+    ],
+    "Platform & Model Safety Engineering": [
+      "Model updates, patches & rollbacks",
+      "Red teaming & independent safety evaluations",
+      "Detection systems & machine-learning improvements",
+      "Prompt filtering, guardrails & contextual controls",
+      "On-device and local ML security features"
+    ],
+    "Regulation, Legislation & Government Policy": [
+      "National laws criminalizing AI misuse",
+      "Implementation and enforcement of the EU AI Act",
+      "International governance for autonomous weapons",
+      "Government directives, public agency policies & competency designations"
+    ],
+    "Privacy, Data Protection & Consent": [
+      "User objection mechanisms for AI training",
+      "Data protection authority investigations & suspensions",
+      "Transparency and provenance requirements for training data",
+      "Corporate compliance with privacy rulings and court decisions"
+    ],
+    "Scams, Fraud & Criminal Networks": [
+      "AI-enabled scams and fraud detection efforts",
+      "Transnational scam centres and coordinated crackdowns",
+      "Money laundering, financial investigations & proceeds tracking",
+      "Voice/deepfake impersonation and scam alerts"
+    ],
+    "Child Safety & CSAM Response": [
+      "Criminalization and legal measures against AI-generated CSAM",
+      "Detection and takedown tools for sexual exploitation content",
+      "Prosecutions, sentencing and victim support mechanisms"
+    ],
+    "AI in Public Safety & Security": [
+      "AI-enabled surveillance and school safety systems",
+      "AI weapons/items detection in public spaces and hospitals",
+      "Drone deployment and AI-based structural/area monitoring",
+      "Military adoption, procurement and autonomous weapons policy"
+    ],
+    "Corporate Governance & Organizational Measures": [
+      "Formation of expert safety teams & internal oversight",
+      "Employee policies, prohibitions, discipline and terminations",
+      "Partnerships with government, defence contractors and vendors",
+      "Product suspensions, recalls, feature rollbacks and operational changes"
+    ],
+    "Research, Audits & Reports": [
+      "Academic studies and user-harm research",
+      "Internal technical reports and vendor disclosures",
+      "Industry-specific risk taxonomies and safety audits",
+      "Publications and conference presentations"
+    ],
+    "User Advisories, Education & Public Warnings": [
+      "Official public warnings and advisories about scams and deepfakes",
+      "Platform guidance and reporting channels for users",
+      "Expert recommendations for personal security and account hygiene"
+    ],
+    "Legal Actions, Lawsuits & Court Decisions": [
+      "Class-action lawsuits, settlements and injunctions",
+      "Criminal complaints, prosecutions and judicial orders",
+      "Judicial reviews, appeals and court-mandated remedies"
+    ],
+    "Content Attribution, IP & Likeness Protection": [
+      "Creators', writers' and performers' demands and petitions",
+      "Legislation and laws protecting likeness and posthumous rights",
+      "Platform obligations, industry letters and takedown requests"
+    ],
+    "Academic & Educational Integrity": [
+      "University AI-use policies and required disclosures",
+      "Exam, admissions and coursework fraud detection measures",
+      "Student verification, disciplinary actions and appeals"
+    ]
+  },
+  {
+    "Synthetic media detection & public guidance": [
+      "Visual and audio deepfake indicators (lip-sync, lighting, blinking, voice)",
+      "User safety actions (verify sources, avoid sharing, report content)",
+      "Official guides and public awareness campaigns",
+      "Authentication practices to detect impersonation (verification codes, secret codes)"
+    ],
+    "Platform moderation, takedowns & content policy": [
+      "Account removals and takedowns (platform enforcement actions)",
+      "Policy changes and moderation program shifts (fact-checking, Community Notes)",
+      "Content labeling and watermarking of AI-generated material",
+      "Detection and treatment of low-quality or duplicate content"
+    ],
+    "Legal actions, legislation & criminal prosecutions": [
+      "Criminal prosecutions and arrests tied to AI-created or abusive content",
+      "Legislative proposals and new laws targeting deepfakes and biometric use",
+      "Court orders, judicial sanctions and litigation outcomes",
+      "Government probes and multi-agency investigations"
+    ],
+    "Data protection, privacy enforcement & biometric rules": [
+      "Data protection authority enforcement (warnings, fines, orders)",
+      "Biometric and facial-data specific rulings, national measures and standards",
+      "User data controls and opt-out mechanisms for AI training",
+      "Regulatory demands and clarifications to companies about data use"
+    ],
+    "AI model risks, misalignment & research findings": [
+      "Model misbehavior, agentic/alignment concerns and red‑teaming results",
+      "Techniques that bypass safety mechanisms (e.g., Policy Puppetry)",
+      "Calls for proactive pre-deployment testing and mitigations",
+      "Tracking and research on hallucinations and their impacts"
+    ],
+    "Defense, military AI & counter-UAV systems": [
+      "Counter-UAV deployments and air‑defense system performance",
+      "AI-powered weapon systems and automated turrets (deployment and procurement)",
+      "Military cyber operations and offensive cyber-capabilities",
+      "Defense spending, procurement and strategic AI programs"
+    ],
+    "Surveillance, facial recognition deployments & controversies": [
+      "Law-enforcement facial recognition deployments and operational use",
+      "License-plate reader systems, audits and use-cases",
+      "Retail and public-trial facial recognition pilots and procedures",
+      "Public, civil-society and legal challenges to surveillance tech"
+    ],
+    "Cybersecurity, fraud detection & incident response": [
+      "AI-powered fraud detection platforms (telecoms, banks, enterprise)",
+      "Web application firewall detections and automated blocking",
+      "Law enforcement cyber units, public advisories and hotlines",
+      "Spam, phishing and email-protection initiatives and research"
+    ],
+    "Platform products, features & AI tools": [
+      "AI search and assistant tools deployed by platforms (internal search, Elsa, etc.)",
+      "Access restrictions and hosting controls for generative models (Veo, DeepSeek)",
+      "Privacy and account controls in platform products (opt-outs, Shielded Email)",
+      "Chatbot incidents, product fixes and feature rollbacks"
+    ],
+    "Organizational responses, workforce & AI governance": [
+      "Rebalancing human and AI roles in customer service and operations",
+      "Corporate AI use policies, employee bans and internal rules",
+      "AI hygiene, data-leak prevention and internal governance measures",
+      "Vendor or partner suspensions and internal investigations"
+    ],
+    "Consumer safety, transport & product recalls": [
+      "Automotive software recalls and vehicle software updates",
+      "Automated driving investigations, emergency behavior and NHTSA probes",
+      "Medical device/app safety notices and mandatory updates",
+      "Robotaxi, urban deployment mitigations and community responses"
+    ],
+    "Education integrity & exam safeguards": [
+      "Academic integrity enforcement for AI‑authored student work",
+      "Exam-time restrictions on image/AI features and invigilation measures",
+      "Institutional disciplinary processes and student appeals",
+      "Research integrity and detection of AI-authored or falsely attributed papers"
+    ],
+    "Intellectual property & data-use disputes": [
+      "Lawsuits and cease-and-desist claims over content used to train models",
+      "Publisher demands, compensation programs and licensing discussions",
+      "Platform scraping disputes and publisher-platform legal interactions"
+    ],
+    "Child sexual exploitation, deepfake abuse & law enforcement": [
+      "Arrests, seizures and prosecutions for child sexual abuse material",
+      "Investigations into AI-generated sexual content and deepnudes",
+      "Police public warnings, school outreach and victim support measures",
+      "Use of existing criminal statutes and novel charges to address deepfake abuse"
+    ],
+    "Standards, governance & international policy": [
+      "International standards and ISO working groups on robot/AI safety",
+      "National AI laws, export controls and cross-border trade measures",
+      "Government AI strategies, procurement and formal investigations",
+      "Industry and NGO reports, recommendations and sectoral policy guidance"
+    ]
+  },
+  {
+    "Law, Regulation, and Policy": [
+      "Electoral and campaign AI rules",
+      "Criminalization and specific offences (deepfakes, child sexual abuse material)",
+      "Data protection and privacy regulation",
+      "Platform and content governance laws (online safety, DSA)",
+      "Export controls and technology-security legislation",
+      "Local and sectoral regulatory measures and bans"
+    ],
+    "Legal Actions, Complaints, and Investigations": [
+      "Civil lawsuits and copyright/contract claims",
+      "Criminal complaints and prosecutions",
+      "Regulatory investigations and enforcement orders",
+      "Judicial rulings, injunctions and court orders"
+    ],
+    "Law Enforcement and Security Operations": [
+      "Cybercrime and digital forensics investigations",
+      "Coordinated international enforcement operations",
+      "Operational arrests and local police actions"
+    ],
+    "Platform and Company Content Moderation Actions": [
+      "Content removal and takedowns",
+      "Demonetization and channel penalties",
+      "Account, channel and feature suspensions/terminations",
+      "Platform fines and administrative penalties",
+      "Platform product and feature safety changes"
+    ],
+    "Detection, Monitoring, and Preventative Technologies": [
+      "URL and link scanning and blocking",
+      "Spam, smishing and messaging filtering",
+      "Fraud-detection algorithms and telecom-bank signaling",
+      "Pentesting, red-teaming and adversarial research",
+      "Real-time threat intelligence and automated monitoring"
+    ],
+    "Incident Response, Remediation, and Transparency": [
+      "Security patching and system remediation",
+      "Public disclosure, post-mortems and transparency reports",
+      "Data retention, preservation and compliance measures",
+      "Compensation, refunds and remedies for affected users"
+    ],
+    "Public Alerts, Warnings, and Education": [
+      "Official government and ministry alerts/clarifications",
+      "Consumer guidance, helplines and reporting tools",
+      "Fact-checking, corrections and media clarifications",
+      "Media literacy and public education campaigns"
+    ],
+    "Research Integrity, Academic Policies, and Publications": [
+      "Paper withdrawals and academic investigations",
+      "Institutional AI-use guidelines for research and education",
+      "Independent research, investigations and exposés"
+    ],
+    "Biometric and Surveillance Technologies Governance": [
+      "Bans, restrictions and moratoria on biometric use",
+      "Ethical guidelines, testing and third-party validation",
+      "Operational use rules, judicial oversight and deployment limits"
+    ],
+    "AI Governance, Ethics, and Industry Best Practices": [
+      "Transparency initiatives, system cards and safety reports",
+      "Safety testing, misalignment research and red-teaming",
+      "Watermarking, provenance and AI-detection tools",
+      "Responsible data use and sovereign/authorized training corpora"
+    ],
+    "Military and Defense AI and Drone Measures": [
+      "Anti-drone procurement and signal-blocking systems",
+      "Military drone development, tactics and production scaling",
+      "Air-defense units, interceptor systems and allied procurement",
+      "Autonomy, remote-control and centralized drone command programs"
+    ],
+    "Child Protection and CSEA Mitigation": [
+      "Legal prohibitions and specific criminalization measures",
+      "Removal, reporting, recovery and support services",
+      "International investigations, arrests and prosecutions"
+    ],
+    "Consumer and Financial Protection Measures": [
+      "Central fraud filtering systems and bank liability rules",
+      "Bank and financial-institution advisories and guidance",
+      "Consumer reporting tools, hotlines and scam-reporting processes"
+    ],
+    "Workforce, Employment, and Training Responses": [
+      "Worker retraining and role transition programs",
+      "Hiring pauses, layoffs and workforce strategy changes",
+      "Union actions, protests and labor negotiations"
+    ],
+    "Environmental and Infrastructure Impacts of AI": [
+      "Energy demand, grid impacts and emergency authorizations",
+      "Data-centre water use, local environmental and community concerns",
+      "Sustainability guidance and efficiency recommendations for AI"
+    ]
+  },
+  {
+    "Detection & Technical Countermeasures": [
+      "Deepfake detection tools",
+      "Voice and call fraud detection",
+      "AI agent and model safeguards",
+      "Real-time and on-device detection",
+      "Forensic AI models and datasets"
+    ],
+    "Security Vulnerabilities & Patches": [
+      "Vulnerability discovery and reporting",
+      "Security patches and updates",
+      "Exploit demonstrations and proofs-of-concept"
+    ],
+    "Law Enforcement, Investigations & Legal Actions": [
+      "Criminal investigations and arrests",
+      "Regulatory enforcement and fines",
+      "Civil litigation and class actions",
+      "Court orders, sanctions and legal process"
+    ],
+    "Policy, Legislation & Regulation": [
+      "AI-specific laws and bills",
+      "Export controls and national security measures",
+      "Platform safety and content regulation",
+      "Regulatory frameworks, standards and guidance"
+    ],
+    "Platform & Company Responses": [
+      "Content takedown and moderation actions",
+      "Product and feature changes",
+      "Privacy and data handling changes",
+      "Transparency statements and public clarifications"
+    ],
+    "Public Advisories & Awareness Campaigns": [
+      "Official public warnings and alerts",
+      "Awareness and media-literacy campaigns",
+      "Institutional guidance and recommendations"
+    ],
+    "Industry Collaboration & Data Sharing": [
+      "Cross-sector detection platforms and networks",
+      "Regulatory sandboxes and special data access",
+      "Banking-telecom-law enforcement cooperation"
+    ],
+    "Workforce & Organizational Responses": [
+      "Restructuring, layoffs and role changes",
+      "Reskilling and training programs",
+      "Employee protests and governance actions"
+    ],
+    "Child Protection & Sexual Exploitation Mitigations": [
+      "Platform child-safety tools and age verification",
+      "Laws and prosecutions for non-consensual sexual deepfakes",
+      "Support, hotlines and reporting channels for victims"
+    ],
+    "Research, Testing & Red Teaming": [
+      "Adversarial testing and stress-tests",
+      "Bias, ethics and model-evaluation studies",
+      "Academic and industry research publications"
+    ],
+    "Content Verification & Fact-checking": [
+      "Fact-check investigations and reports",
+      "Verification techniques (reverse image/audio search, provenance)",
+      "Corrections, editorial retractions and notices"
+    ],
+    "User Guidance & Best Practices": [
+      "Personal cybersecurity and privacy tips",
+      "Platform-specific user actions and settings",
+      "Practical steps for recognizing and responding to scams"
+    ],
+    "Forensic & Operational Deployments": [
+      "Live facial recognition deployment and oversight",
+      "Police and security operational use of AI",
+      "Early-warning and safety systems (wildlife, railway, infrastructure)"
+    ],
+    "Compensation, Support & Remediation": [
+      "Victim refunds and compensation frameworks",
+      "Employee support, temporary pay and redeployment",
+      "Customer remediation and service corrections"
+    ],
+    "Transparency, Audits & Oversight": [
+      "Independent audits and external reviews",
+      "Government and oversight inquiries",
+      "Data protection assessments and compliance processes"
+    ]
+  },
+  {
+    "Government and Regulatory Actions": [
+      "National legislative positions and oppositions",
+      "Regulatory enforcement, fines and sanctions",
+      "Government campaigns and special regulatory initiatives",
+      "Procurement, approval and sovereign-data decisions"
+    ],
+    "Legal Proceedings and Litigation": [
+      "Copyright, training-data and class-action settlements",
+      "Defamation, personality-rights and identity lawsuits",
+      "Wrongful-death, product-liability and suicide-related suits",
+      "Corporate fraud, bankruptcy and criminal charges",
+      "Court orders, injunctions and takedown mandates"
+    ],
+    "Platform and Company Mitigations": [
+      "Product feature changes and operational restrictions",
+      "Content-moderation policy updates and retraining",
+      "User controls, opt-outs and transparency settings",
+      "Content/account removals and takedowns",
+      "Corporate statements, compliance claims and PR responses"
+    ],
+    "Safety, Support and Mental-Health Interventions": [
+      "Clinical treatment and therapeutic interventions",
+      "Crisis response and suicide-prevention resources",
+      "Family, caregiver and clinical help-seeking guidance",
+      "Behavioral and lifestyle recommendations to reduce risk"
+    ],
+    "Security Incident Response and Vulnerability Management": [
+      "Incident reporting, containment and forensics",
+      "Patching, fixes and vendor remediation",
+      "Secrets rotation and credential remediation guidance",
+      "Removal of malicious packages and compromised artifacts"
+    ],
+    "Fraud, Scam Prevention and Financial Protections": [
+      "Banking and consumer advisories",
+      "Authentication, anti-fraud architecture and signals",
+      "Operational fraud-detection and account-recovery actions",
+      "Public awareness, education and prevention campaigns"
+    ],
+    "Content Integrity, Detection and Forensics": [
+      "Deepfake detection and multimedia forensic analysis",
+      "Provenance, voice/signature preservation and attribution",
+      "Automated monitoring and pre-detection systems for illicit content"
+    ],
+    "Child Safety and Age-based Protections": [
+      "Parental controls, account linking and parental insights",
+      "Age verification and usage restriction policies",
+      "Platform-specific minor-protection safeguards and defaults"
+    ],
+    "Law Enforcement, Investigations and Prosecutions": [
+      "Criminal investigations of AI misuse and image/voice manipulation",
+      "Specialized police task forces and investigative units",
+      "Evidence preservation, seizure and judicial processes"
+    ],
+    "Research, Responsible Disclosure and Security Testing": [
+      "Vulnerability research and coordinated disclosure",
+      "Red-teaming, stress-testing and crowdtesting of models",
+      "Academic studies, dataset caveats and calls for further research"
+    ],
+    "Operational and Technical Mitigations in Services": [
+      "Deployment of detection, warning and automation systems",
+      "Human oversight, escalation and hybrid human-AI workflows",
+      "Service thresholds, manual reviews and stricter verification"
+    ],
+    "Industry Coordination, Standards and Alliances": [
+      "Publisher licensing, revenue-sharing and content agreements",
+      "Information-sharing among security organizations and CERTs",
+      "Industry codes, voluntary standards and multi-stakeholder alliances"
+    ]
+  },
+  {
+    "Legal & Regulatory Actions": [
+      "Lawsuits and court injunctions",
+      "Legislation and statutory reforms",
+      "Regulatory investigations and probes",
+      "Fines, penalties and settlements"
+    ],
+    "Platform & Corporate Policy Responses": [
+      "Content moderation and takedowns",
+      "Account suspensions and bans",
+      "Policy changes and feature restrictions",
+      "Rights-holder opt-in/opt-out controls"
+    ],
+    "Technical Mitigations & Security Patches": [
+      "Security patches and vulnerability fixes",
+      "Detection, labeling and watermarking of AI content",
+      "Input/output allowlists, URL restrictions and pay-per-crawl",
+      "Service deactivation and emergency mitigations"
+    ],
+    "Law Enforcement & Criminal Actions": [
+      "Arrests and prosecutions",
+      "Searches, seizures and evidence collection",
+      "Police operations, warrants and case filings"
+    ],
+    "Public Warnings, Advisories & Fact-checking": [
+      "Official fact-checks and debunks",
+      "Public safety and health advisories",
+      "Consumer guidance and scam warnings"
+    ],
+    "Industry Coordination & Standards": [
+      "Cross-government and international coordination",
+      "Industry task forces, coalitions and partnerships",
+      "Standards, frameworks and strategic roadmaps"
+    ],
+    "Rights Protection & Intellectual Property": [
+      "Personality and publicity rights enforcement",
+      "Copyright and character/IP disputes",
+      "Rightsholder notices, opt-outs and takedown demands"
+    ],
+    "Research, Audits & Evaluations": [
+      "Academic and NGO research reports",
+      "Internal and external audits or assessments",
+      "Benchmarking, red-teaming and testing"
+    ],
+    "Safety & User Protections": [
+      "Child and teen safety measures",
+      "Age verification and parental controls",
+      "Judicial and procedural guidance on acceptable AI use"
+    ],
+    "Product Withdrawals & Operational Changes": [
+      "Service shutdowns and feature rollbacks",
+      "Pilots, trials and operational safeguards",
+      "Deactivations, access freezes and account controls"
+    ],
+    "Employment & Training Responses": [
+      "Employee AI training and upskilling programs",
+      "Layoffs, severance and outplacement measures",
+      "Workforce restructuring communications and support"
+    ],
+    "Defense & National Security Measures": [
+      "Drone and counter-drone defenses",
+      "Military procurement and operational adjustments",
+      "Export controls and seizures of dual-use components"
+    ],
+    "Consumer & Financial Fraud Mitigations": [
+      "Banking and transaction fraud detection systems",
+      "Verified payment handles and payment-identity measures",
+      "Marketplace and used-goods fraud prevention"
+    ],
+    "Accountability, Transparency & Reporting": [
+      "Transparency reporting and public disclosures",
+      "Platform provenance, audit logs and content provenance",
+      "Notifications to affected individuals and rights-holders"
+    ]
+  },
+  {
+    "Law enforcement actions & criminal investigations": [
+      "Arrests and charges",
+      "Raids and seizures",
+      "Investigations and evidence collection",
+      "Police operational use of AI (deployments)"
+    ],
+    "Regulatory & government actions": [
+      "Bans, suspensions and restrictions",
+      "Surveillance oversight and executive orders",
+      "Export controls and trade restrictions",
+      "Public sector policy statements and reviews"
+    ],
+    "Litigation & legal claims": [
+      "Suits over AI-generated defamation and hallucinations",
+      "Deepfake and personality-rights suits",
+      "Copyright, scraping and IP lawsuits",
+      "Class actions, settlements and monetary damages"
+    ],
+    "Legislation & policy proposals": [
+      "Child protection and age-verification laws",
+      "AI transparency and labeling laws",
+      "Deepfake-specific bills and definitions",
+      "Surveillance and data-collection policy proposals"
+    ],
+    "Platform and product safety measures": [
+      "Watermarks and provenance labels",
+      "Parental controls and age limits",
+      "Moderation and content-filtering changes",
+      "Model fine-tuning, prompt engineering and safety tuning"
+    ],
+    "Content moderation, takedowns & platform responses": [
+      "Takedowns and content removal",
+      "Account suspensions and bans",
+      "Platform transparency statements and corrections",
+      "Coordination with rights-holders and authorities"
+    ],
+    "Detection, research & tool development": [
+      "Deepfake and manipulated-media detection research",
+      "AI behaviour and safety research and benchmarks",
+      "Datasets, code and resource releases",
+      "Reverse-engineering and measurement studies"
+    ],
+    "Privacy & data protection interventions": [
+      "Biometric data investigations and restrictions",
+      "Data-protection fines, bans and sanctions",
+      "Privacy impact assessments and mandated deletions",
+      "Privacy-enhancing alternatives and opt-outs"
+    ],
+    "Cybersecurity & threat mitigation": [
+      "Malvertising, malware and AI-driven attacks",
+      "Prompt injection and model-security mitigations",
+      "Anti-phishing, fraud-detection and finance protections",
+      "Security best-practices, incident response and hardening"
+    ],
+    "Industry & organizational governance": [
+      "Workforce impacts, restructurings and layoffs",
+      "Corporate statements, reputational responses and contracts",
+      "Industry coalitions, toolkits and public letters",
+      "Internal policies, model-level accountability and audits"
+    ],
+    "Child protection & minors": [
+      "Criminal cases involving minors and exploitation",
+      "Platform measures specifically protecting children",
+      "Education, training and awareness initiatives for minors"
+    ],
+    "Public advisories, media literacy & user guidance": [
+      "Government and agency public warnings",
+      "Media-literacy campaigns and verification guidance",
+      "Consumer advice and safety tips for interacting with AI"
+    ],
+    "Military & defense AI uses": [
+      "Autonomous and AI-assisted weapons and tactics",
+      "Counter-drone and defensive systems",
+      "Operational deployment, coordination and testing"
+    ],
+    "Biometric surveillance & recognition": [
+      "Police live facial-recognition deployments and oversight",
+      "Retail and commercial facial-recognition trials",
+      "Automated license-plate readers, location disclosure and retention policies"
+    ]
+  },
+  {
+    "Law enforcement actions & investigations": [
+      "Raids, rescues and seizures",
+      "Arrests, detentions and charges",
+      "Criminal investigations into AI-related offences",
+      "Evidence seizure and forensic analysis",
+      "Police public statements and legal notices"
+    ],
+    "Legal proceedings & court rulings": [
+      "Lawsuits against AI companies and platforms",
+      "Court orders, injunctions and liability rulings",
+      "Judicial sanctions and evidentiary rules",
+      "Settlements, fines and compensation judgments"
+    ],
+    "Platform moderation & content removal": [
+      "Content takedowns and account suspensions",
+      "Policy changes and enforcement actions",
+      "Monetization and recommendation restrictions",
+      "Dedicated moderation and review teams"
+    ],
+    "Safety features & technical mitigations by AI companies": [
+      "Mental-health and crisis-response safeguards",
+      "Model behaviour fixes and security patches",
+      "Impersonation and public-figure protections",
+      "Emergency investigations and safety reviews"
+    ],
+    "Government regulation & legislation": [
+      "National laws regulating chatbots and AI behaviour",
+      "Regulations on labeling and review of generated content",
+      "Powers to test and oversee AI for child protection",
+      "Mandatory platform obligations (age checks, crisis monitoring)"
+    ],
+    "Fact-checking, verification & public advisories": [
+      "Independent fact-check investigations",
+      "Official denials, clarifications and public advisories",
+      "Verification techniques and tool recommendations",
+      "Media literacy and critical-thinking campaigns"
+    ],
+    "Age verification, child & youth protections": [
+      "Platform age-assurance mechanisms and verification UX",
+      "Default account settings and digital well‑being for minors",
+      "Legal mandates and enforcement of age verification",
+      "Product and toy safety standards for children (privacy/controls)"
+    ],
+    "Mental health crisis response & support": [
+      "Chatbot crisis detection, de‑escalation and referrals",
+      "Collaboration with mental‑health clinicians and experts",
+      "Legal and policy demands for crisis safeguards",
+      "Public helplines and directed support resources"
+    ],
+    "Cybersecurity vulnerabilities & technical countermeasures": [
+      "Model/network vulnerability discovery and fixes",
+      "Guidance for secure use (VPNs, avoid untrusted Wi‑Fi)",
+      "Measures to block or monetise AI crawler/scraper traffic",
+      "Vehicle/IoT remote‑access and firmware/security investigations"
+    ],
+    "Anti-fraud, anti-scam & telecom protections": [
+      "Network-level call and message filtering systems",
+      "AI-driven scam-engagement and baiting tools",
+      "Banking and anti-mule-account AI detection models",
+      "Telecom-scale warning, quarantining and analytics"
+    ],
+    "Deepfake, impersonation & image/video misuse mitigation": [
+      "Detection, watermarking and labeling of AI-generated media",
+      "Platform and industry governance actions against impersonation",
+      "Legal complaints, takedowns and criminal referrals for deepfakes",
+      "Creator/celebrity responses and rights-protection measures"
+    ],
+    "Education & academic integrity responses": [
+      "Exam invalidation, re-examinations and grading policies",
+      "Academic inquiries, corrigenda and research corrections",
+      "Instructor and institutional assessment redesigns",
+      "Guidance on the use and limits of detection software as evidence"
+    ],
+    "Defense, drones & military countermeasures": [
+      "Drone production, procurement and industrial scaling",
+      "Counter-drone technologies and interceptor deployment",
+      "Electronic warfare, GPS spoofing reporting and monitoring",
+      "Doctrine changes and supply‑chain resilience for autonomous systems"
+    ],
+    "Business & labor impacts, corporate responses": [
+      "Workforce changes, layoffs and retraining initiatives",
+      "Corporate investments, partnerships and strategy shifts",
+      "Product recalls, safety audits and voluntary suspensions",
+      "Corporate settlements, public statements and compliance steps"
+    ],
+    "Research, standards & certification initiatives": [
+      "Calls for independent safety certification and standards",
+      "Research on model behaviours, metrics and evaluation methods",
+      "Reproducibility, corrections and institutional inquiries",
+      "Open tools, frameworks and released evaluation resources"
+    ]
+  }
+]
