@@ -8,7 +8,7 @@ As the manuscript is currently under consideration for publication, this reposit
 
 Additional materials and updates will be made available upon publication of the manuscript.
 
-<!--This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. **The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).**
+This repository contains research materials and code for analyzing systemic failures in AI applications using news media as a primary data source. **The study focuses on extracting mitigation actions and organizing them into a structured taxonomy, building on the existing [MIT AI Risk Mitigation Taxonomy](https://airisk.mit.edu/blog/mapping-ai-risk-mitigations).**
 
 <img width="100%" alt="MIT-ai-risk-mitigation" src="https://github.com/user-attachments/assets/7bc8c1fc-3786-47b0-8cfe-443fbe30ed31" />
 
@@ -71,12 +71,12 @@ A total of **6,893** rows containing mitigation texts were labeled, resulting in
 **Citation:**
 ```yaml
 @article{KEYWORD,
-  title={ARTICLE_TITLE},
+  title={When AI Fails, What Works? A Data-Driven Taxonomy of Real-World AI Risk Mitigation Strategies},
   author={Popchanovska, Evgenija and Gjorgjevikj, Ana and Rizinski, Maryan and Chitkushev, Lubomir T and Vodenska, Irena and Trajanov, Dimitar},
   journal={JOURNAL_NAME},
   volume={XXX},
   pages={PAGES},
   year={2026},
   publisher={PUBLISHER}
-}-->
+}
 ```
