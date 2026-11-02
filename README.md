@@ -44,7 +44,7 @@ New subcategories in existing categories: **3.7 Incident Investigation** and **4
 
 Some added subcategories partly overlap with RMT subcategories; the paper includes a crosswalk of all nine added subcategories against their closest RMT counterparts.
 
-_The newly added subcategories and categories are in blue._
+_The newly added subcategories and categories are in orange._
 <img width="100%" alt="RRT" src="figures/rrt_taxonomy.png" />
 
 ### Dual-track model and control-structure mapping
