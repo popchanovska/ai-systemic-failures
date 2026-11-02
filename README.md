@@ -6,7 +6,7 @@ The paper analyzes real-world AI incident reporting to describe how organization
 
 As the manuscript is currently under consideration for publication, this repository represents an ongoing body of work and may not yet contain the final results. Additional materials and updates will be made available upon publication of the manuscript.
 
-<img width="100%" alt="MIT-ai-risk-mitigation" src="https://github.com/user-attachments/assets/7bc8c1fc-3786-47b0-8cfe-443fbe30ed31" />
+<img width="100%" alt="MIT-ai-risk-mitigation" src="figures/rmt_taxonomy.png" />
 
 ---
 
@@ -45,7 +45,7 @@ New subcategories in existing categories: **3.7 Incident Investigation** and **4
 Some added subcategories partly overlap with RMT subcategories; the paper includes a crosswalk of all nine added subcategories against their closest RMT counterparts.
 
 _The newly added subcategories and categories are in blue._
-<img width="100%" alt="RRT" src="https://github.com/user-attachments/assets/9d367ce5-35af-479e-a5c8-09b1f3d8cf69" />
+<img width="100%" alt="RRT" src="figures/rrt_taxonomy.png" />
 
 ### Dual-track model and control-structure mapping
 
